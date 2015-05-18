@@ -1,0 +1,201 @@
+Rank: 143
+Name: Drake University
+State: Iowa
+Tel: 515-271-2011
+Website: http://www.drake.edu/
+Student Population: 5,270
+Undergraduate Population: 3,365
+Student to Faculty Ratio: 12
+Total Annual Cost: $44,349
+In-State Tuition: $30,889
+Out-of-State Tuition: $30,889
+Percent on Financial Aid: 99.0%
+Percent Admitted: 66.0%
+SAT Composite Range: 1070-1320
+ACT Composite Range: 25-30
+#112 in Private Colleges
+#25 in the Midwest
+Male: 43%
+Female: 57%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 3.0%
+Hispanic/Latino: 3.0%
+White: 79.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 8.0%
+Full-Time: 95.0%
+Part-Time: 5.0%
+############### Next ###############
+Rank: 175
+Name: Wheaton College (MA)
+State: Massachusetts
+Tel: 508-286-8200
+Website: http://wheatoncollege.edu/
+Student Population: 1,616
+Undergraduate Population: 1,616
+Student to Faculty Ratio: 11
+Total Annual Cost: $58,574
+In-State Tuition: $45,074
+Out-of-State Tuition: $45,074
+Percent on Financial Aid: 83.0%
+Percent Admitted: 67.0%
+#133 in Private Colleges
+#80 in the Northeast
+Male: 36%
+Female: 64%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 5.0%
+Hispanic/Latino: 7.0%
+White: 73.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 8.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 219
+Name: Saint Mary's College of California
+State: California
+Tel: 925-631-400
+Website: http://www.stmarys-ca.edu
+Student Population: 4,228
+Undergraduate Population: 3,035
+Student to Faculty Ratio: 13
+Total Annual Cost: $58,365
+In-State Tuition: $39,890
+Out-of-State Tuition: $39,890
+Percent on Financial Aid: 87.0%
+Percent Admitted: 69.0%
+SAT Composite Range: 1010-1210
+ACT Composite Range: 22-27
+#161 in Private Colleges
+#40 in the West
+Male: 40%
+Female: 60%
+Asian/Native Hawaiian/Pacific Islander: 10.0%
+Black or African American: 4.0%
+Hispanic/Latino: 25.0%
+White: 45.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 8.0%
+Non-Resident Alien: 3.0%
+Full-Time: 92.0%
+Part-Time: 8.0%
+############### Next ###############
+Rank: 360
+Name: Concordia College-Moorhead
+State: Minnesota
+Tel: 218-299-3004
+Website: http://www.concordiacollege.edu/
+Student Population: 2,626
+Undergraduate Population: 2,598
+Student to Faculty Ratio: 13
+Total Annual Cost: $42,964
+In-State Tuition: $32,814
+Out-of-State Tuition: $32,814
+Percent on Financial Aid: 100.0%
+Percent Admitted: 80.0%
+SAT Composite Range: 990-1280
+ACT Composite Range: 22-28
+#360 in Private Colleges
+#84 in the Midwest
+Male: 38%
+Female: 62%
+Asian/Native Hawaiian/Pacific Islander: 2.0%
+Black or African American: 1.0%
+Hispanic/Latino: 1.0%
+White: 84.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 4.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 423
+Name: University of New Mexico
+State: New Mexico
+Tel: 505-277-0111
+Website: http://www.unm.edu/
+Student Population: 29,033
+Undergraduate Population: 22,773
+Student to Faculty Ratio: 26
+Total Annual Cost: $33,939
+In-State Tuition: $6,846
+Out-of-State Tuition: $20,688
+Percent on Financial Aid: 98.0%
+Percent Admitted: 65.0%
+SAT Composite Range: 940-1210
+ACT Composite Range: 19-25
+#160 in Research Universities
+#95 in the South
+Male: 44%
+Female: 56%
+American Indian or Alaskan native: 6.0%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 3.0%
+Hispanic/Latino: 42.0%
+White: 39.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 2.0%
+Full-Time: 75.0%
+Part-Time: 25.0%
+############### Next ###############
+Rank: 554
+Name: Monmouth College
+State: Illinois
+Tel: 309-457-2311
+Website: http://www.monmouthcollege.edu/
+Student Population: 1,242
+Undergraduate Population: 1,242
+Student to Faculty Ratio: 14
+Total Annual Cost: $42,050
+In-State Tuition: $31,500
+Out-of-State Tuition: $31,500
+Percent on Financial Aid: 100.0%
+Percent Admitted: 64.0%
+SAT Composite Range: 960-1050
+ACT Composite Range: 20-25
+#363 in Private Colleges
+#127 in the Midwest
+Male: 46%
+Female: 54%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 1.0%
+Black or African American: 13.0%
+Hispanic/Latino: 9.0%
+White: 70.0%
+Two or More Races: 1.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 1.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 638
+Name: Metropolitan State University of Denver
+State: Colorado
+Tel: 303-556-3058
+Website: http://www.msudenver.edu/
+Student Population: 23,381
+Undergraduate Population: 23,019
+Student to Faculty Ratio: 20
+Total Annual Cost: $31,093
+In-State Tuition: $5,744
+Out-of-State Tuition: $17,837
+Percent on Financial Aid: 70.0%
+Percent Admitted: 71.0%
+SAT Composite Range: 930-1200
+ACT Composite Range: 18-23
+#108 in the West
+Male: 46%
+Female: 54%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 6.0%
+Hispanic/Latino: 19.0%
+White: 62.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 4.0%
+Full-Time: 58.0%
+Part-Time: 42.0%
+############### Next ###############

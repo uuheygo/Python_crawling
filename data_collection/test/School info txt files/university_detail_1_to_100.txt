@@ -1,0 +1,2824 @@
+Rank: 1
+Name: Williams College
+State: Massachusetts
+Tel: 413-597-3131
+Website: http://www.williams.edu/
+Student Population: 2,124
+Undergraduate Population: 2,070
+Student to Faculty Ratio: 7
+Total Annual Cost: $61,850
+In-State Tuition: $46,600
+Out-of-State Tuition: $46,600
+Percent on Financial Aid: 65.0%
+Percent Admitted: 17.0%
+SAT Composite Range: 1330-1560
+ACT Composite Range: 30-34
+#1 in Private Colleges
+#1 in the Northeast
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 11.0%
+Black or African American: 8.0%
+Hispanic/Latino: 11.0%
+White: 58.0%
+Two or More Races: 5.0%
+Non-Resident Alien: 7.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 2
+Name: Stanford University
+State: California
+Tel: 650-723-2091
+Website: http://www.stanford.edu
+Student Population: 18,519
+Undergraduate Population: 7,063
+Student to Faculty Ratio: 12
+Total Annual Cost: $60,749
+In-State Tuition: $43,683
+Out-of-State Tuition: $43,683
+Percent on Financial Aid: 70.0%
+Percent Admitted: 6.0%
+SAT Composite Range: 1380-1570
+ACT Composite Range: 31-34
+#2 in Private Colleges
+#1 in Research Universities
+#1 in the West
+Male: 52%
+Female: 48%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 19.0%
+Black or African American: 6.0%
+Hispanic/Latino: 17.0%
+White: 38.0%
+Two or More Races: 11.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 8.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 3
+Name: Swarthmore College
+State: Pennsylvania
+Tel: 610-328-8300
+Website: http://www.swarthmore.edu/
+Student Population: 1,552
+Undergraduate Population: 1,552
+Student to Faculty Ratio: 8
+Total Annual Cost: $60,671
+In-State Tuition: $44,718
+Out-of-State Tuition: $44,718
+Percent on Financial Aid: 62.0%
+Percent Admitted: 14.0%
+SAT Composite Range: 1350-1530
+ACT Composite Range: 31-34
+#3 in Private Colleges
+#2 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 14.0%
+Black or African American: 6.0%
+Hispanic/Latino: 13.0%
+White: 43.0%
+Two or More Races: 8.0%
+Race/Ethnicity Unknown: 7.0%
+Non-Resident Alien: 8.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 4
+Name: Princeton University
+State: New Jersey
+Tel: 609-258-3000
+Website: http://www.princeton.edu
+Student Population: 7,975
+Undergraduate Population: 5,327
+Student to Faculty Ratio: 6
+Total Annual Cost: $55,832
+In-State Tuition: $40,170
+Out-of-State Tuition: $40,170
+Percent on Financial Aid: 60.0%
+Percent Admitted: 7.0%
+SAT Composite Range: 1410-1600
+ACT Composite Range: 31-35
+#4 in Private Colleges
+#2 in Research Universities
+#3 in the Northeast
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 19.0%
+Black or African American: 7.0%
+Hispanic/Latino: 7.0%
+White: 48.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 10.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 5
+Name: Massachusetts Institute of Technology
+State: Massachusetts
+Tel: 617-253-1000
+Website: http://web.mit.edu/
+Student Population: 11,189
+Undergraduate Population: 4,503
+Student to Faculty Ratio: 8
+Total Annual Cost: $59,020
+In-State Tuition: $43,498
+Out-of-State Tuition: $43,498
+Percent on Financial Aid: 85.0%
+Percent Admitted: 8.0%
+SAT Composite Range: 1430-1570
+ACT Composite Range: 33-35
+#5 in Private Colleges
+#3 in Research Universities
+#4 in the Northeast
+Male: 55%
+Female: 45%
+Asian/Native Hawaiian/Pacific Islander: 24.0%
+Black or African American: 6.0%
+Hispanic/Latino: 15.0%
+White: 37.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 10.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 6
+Name: Yale University
+State: Connecticut
+Tel: 203-432-4771
+Website: http://www.yale.edu/
+Student Population: 11,906
+Undergraduate Population: 5,405
+Student to Faculty Ratio: 6
+Total Annual Cost: $61,620
+In-State Tuition: $44,000
+Out-of-State Tuition: $44,000
+Percent on Financial Aid: 62.0%
+Percent Admitted: 7.0%
+SAT Composite Range: 1410-1590
+ACT Composite Range: 32-35
+#6 in Private Colleges
+#4 in Research Universities
+#5 in the Northeast
+Male: 50%
+Female: 50%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 16.0%
+Black or African American: 7.0%
+Hispanic/Latino: 10.0%
+White: 47.0%
+Two or More Races: 6.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 10.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 7
+Name: Harvard University
+State: Massachusetts
+Tel: 617-495-1000
+Website: http://www.harvard.edu/
+Student Population: 28,147
+Undergraduate Population: 10,564
+Student to Faculty Ratio: 7
+Total Annual Cost: $59,950
+In-State Tuition: $42,292
+Out-of-State Tuition: $42,292
+Percent on Financial Aid: 77.0%
+Percent Admitted: 6.0%
+SAT Composite Range: 1410-1600
+ACT Composite Range: 32-35
+#7 in Private Colleges
+#5 in Research Universities
+#6 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 15.0%
+Black or African American: 6.0%
+Hispanic/Latino: 9.0%
+White: 48.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 6.0%
+Non-Resident Alien: 11.0%
+Full-Time: 68.0%
+Part-Time: 32.0%
+############### Next ###############
+Rank: 8
+Name: Pomona College
+State: California
+Tel: 909-621-8134
+Website: http://www.pomona.edu/
+Student Population: 1,607
+Undergraduate Population: 1,607
+Student to Faculty Ratio: 7
+Total Annual Cost: $59,730
+In-State Tuition: $43,580
+Out-of-State Tuition: $43,580
+Percent on Financial Aid: 68.0%
+Percent Admitted: 14.0%
+SAT Composite Range: 1380-1540
+ACT Composite Range: 31-34
+#8 in Private Colleges
+#2 in the West
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 11.0%
+Black or African American: 6.0%
+Hispanic/Latino: 14.0%
+White: 45.0%
+Two or More Races: 6.0%
+Race/Ethnicity Unknown: 11.0%
+Non-Resident Alien: 7.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 9
+Name: United States Military Academy
+State: New York
+Tel: 845-938-4041
+Website: http://www.usma.edu
+Student Population: 4,592
+Undergraduate Population: 4,592
+Student to Faculty Ratio: 7
+Total Annual Cost: $0
+Percent Admitted: 9.0%
+SAT Composite Range: 1180-1385
+ACT Composite Range: 27-30
+#7 in the Northeast
+Male: 84%
+Female: 16%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 7.0%
+Hispanic/Latino: 9.0%
+White: 71.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 1.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 10
+Name: Amherst College
+State: Massachusetts
+Tel: 413-542-2000
+Website: https://www.amherst.edu/
+Student Population: 1,817
+Undergraduate Population: 1,817
+Student to Faculty Ratio: 8
+Total Annual Cost: $61,544
+In-State Tuition: $46,574
+Out-of-State Tuition: $46,574
+Percent on Financial Aid: 71.0%
+Percent Admitted: 14.0%
+SAT Composite Range: 1350-1530
+ACT Composite Range: 30-34
+#9 in Private Colleges
+#8 in the Northeast
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 12.0%
+Black or African American: 11.0%
+Hispanic/Latino: 12.0%
+White: 40.0%
+Two or More Races: 6.0%
+Race/Ethnicity Unknown: 9.0%
+Non-Resident Alien: 10.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 11
+Name: Haverford College
+State: Pennsylvania
+Tel: 610-896-1000
+Website: http://www.haverford.edu
+Student Population: 1,205
+Undergraduate Population: 1,205
+Student to Faculty Ratio: 8
+Total Annual Cost: $61,898
+In-State Tuition: $45,426
+Out-of-State Tuition: $45,426
+Percent on Financial Aid: 51.0%
+Percent Admitted: 23.0%
+SAT Composite Range: 1310-1490
+ACT Composite Range: 30-33
+#10 in Private Colleges
+#9 in the Northeast
+Male: 47%
+Female: 53%
+Asian/Native Hawaiian/Pacific Islander: 7.0%
+Black or African American: 6.0%
+Hispanic/Latino: 9.0%
+White: 67.0%
+Two or More Races: 6.0%
+Non-Resident Alien: 4.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 12
+Name: University of Pennsylvania
+State: Pennsylvania
+Tel: (215) 898-5000
+Website: http://www.upenn.edu/
+Student Population: 24,725
+Undergraduate Population: 11,678
+Student to Faculty Ratio: 6
+Total Annual Cost: $61,800
+In-State Tuition: $45,890
+Out-of-State Tuition: $45,890
+Percent on Financial Aid: 61.0%
+Percent Admitted: 12.0%
+SAT Composite Range: 1360-1540
+ACT Composite Range: 30-34
+#11 in Private Colleges
+#6 in Research Universities
+#10 in the Northeast
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 18.0%
+Black or African American: 7.0%
+Hispanic/Latino: 9.0%
+White: 46.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 7.0%
+Non-Resident Alien: 11.0%
+Full-Time: 88.0%
+Part-Time: 12.0%
+############### Next ###############
+Rank: 13
+Name: Brown University
+State: Rhode Island
+Tel: 401.863.1000
+Website: http://www.brown.edu/
+Student Population: 8,885
+Undergraduate Population: 6,435
+Student to Faculty Ratio: 8
+Total Annual Cost: $60,460
+In-State Tuition: $45,612
+Out-of-State Tuition: $45,612
+Percent on Financial Aid: 61.0%
+Percent Admitted: 9.0%
+SAT Composite Range: 1330-1540
+ACT Composite Range: 29-34
+#12 in Private Colleges
+#7 in Research Universities
+#11 in the Northeast
+Male: 47%
+Female: 53%
+Asian/Native Hawaiian/Pacific Islander: 13.0%
+Black or African American: 6.0%
+Hispanic/Latino: 10.0%
+White: 45.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 12.0%
+Full-Time: 95.0%
+Part-Time: 5.0%
+############### Next ###############
+Rank: 14
+Name: Bowdoin College
+State: Maine
+Tel: (207) 725-3000
+Website: http://www.bowdoin.edu/
+Student Population: 1,839
+Undergraduate Population: 1,839
+Student to Faculty Ratio: 9
+Total Annual Cost: $59,900
+In-State Tuition: $45,446
+Out-of-State Tuition: $45,446
+Percent on Financial Aid: 48.0%
+Percent Admitted: 15.0%
+SAT Composite Range: 1360-1510
+ACT Composite Range: 30-33
+#13 in Private Colleges
+#12 in the Northeast
+Male: 50%
+Female: 50%
+Asian/Native Hawaiian/Pacific Islander: 7.0%
+Black or African American: 5.0%
+Hispanic/Latino: 13.0%
+White: 64.0%
+Two or More Races: 6.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 4.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 15
+Name: Wesleyan University
+State: Connecticut
+Tel: 860-685-3000
+Website: http://www.wesleyan.edu/
+Student Population: 3,262
+Undergraduate Population: 2,940
+Student to Faculty Ratio: 9
+Total Annual Cost: $62,849
+In-State Tuition: $47,244
+Out-of-State Tuition: $47,244
+Percent on Financial Aid: 58.0%
+Percent Admitted: 21.0%
+SAT Composite Range: 1300-1480
+ACT Composite Range: 29-33
+#14 in Private Colleges
+#13 in the Northeast
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 9.0%
+Black or African American: 7.0%
+Hispanic/Latino: 10.0%
+White: 52.0%
+Two or More Races: 6.0%
+Race/Ethnicity Unknown: 9.0%
+Non-Resident Alien: 8.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 16
+Name: Carleton College
+State: Minnesota
+Tel: 507-222-4000
+Website: http://www.carleton.edu/
+Student Population: 2,055
+Undergraduate Population: 2,055
+Student to Faculty Ratio: 9
+Total Annual Cost: $60,425
+In-State Tuition: $46,167
+Out-of-State Tuition: $46,167
+Percent on Financial Aid: 79.0%
+Percent Admitted: 21.0%
+SAT Composite Range: 1340-1520
+ACT Composite Range: 29-33
+#15 in Private Colleges
+#1 in the Midwest
+Male: 47%
+Female: 53%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 3.0%
+Hispanic/Latino: 6.0%
+White: 67.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 9.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 17
+Name: University of Notre Dame
+State: Indiana
+Tel: (574) 631-5000
+Website: http://www.nd.edu/
+Student Population: 12,126
+Undergraduate Population: 8,475
+Student to Faculty Ratio: 10
+Total Annual Cost: $60,117
+In-State Tuition: $44,605
+Out-of-State Tuition: $44,605
+Percent on Financial Aid: 71.0%
+Percent Admitted: 22.0%
+SAT Composite Range: 1240-1520
+ACT Composite Range: 32-34
+#16 in Private Colleges
+#8 in Research Universities
+#2 in the Midwest
+Male: 53%
+Female: 47%
+Asian/Native Hawaiian/Pacific Islander: 7.0%
+Black or African American: 3.0%
+Hispanic/Latino: 10.0%
+White: 72.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 4.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 18
+Name: Dartmouth College
+State: New Hampshire
+Tel: (603) 646-1110
+Website: http://www.dartmouth.edu/
+Student Population: 6,277
+Undergraduate Population: 4,193
+Student to Faculty Ratio: 8
+Total Annual Cost: $63,279
+In-State Tuition: $46,752
+Out-of-State Tuition: $46,752
+Percent on Financial Aid: 54.0%
+Percent Admitted: 10.0%
+SAT Composite Range: 1350-1560
+ACT Composite Range: 30-34
+#17 in Private Colleges
+#9 in Research Universities
+#14 in the Northeast
+Male: 50%
+Female: 50%
+American Indian or Alaskan native: 2.0%
+Asian/Native Hawaiian/Pacific Islander: 14.0%
+Black or African American: 7.0%
+Hispanic/Latino: 8.0%
+White: 47.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 8.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 19
+Name: Northwestern University
+State: Illinois
+Tel: 847-491-3741
+Website: http://www.northwestern.edu
+Student Population: 21,215
+Undergraduate Population: 9,376
+Student to Faculty Ratio: 7
+Total Annual Cost: $63,193
+In-State Tuition: $45,527
+Out-of-State Tuition: $45,527
+Percent on Financial Aid: 64.0%
+Percent Admitted: 15.0%
+SAT Composite Range: 1390-1550
+ACT Composite Range: 31-35
+#18 in Private Colleges
+#10 in Research Universities
+#3 in the Midwest
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 17.0%
+Black or African American: 5.0%
+Hispanic/Latino: 8.0%
+White: 55.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 4.0%
+Non-Resident Alien: 6.0%
+Full-Time: 91.0%
+Part-Time: 9.0%
+############### Next ###############
+Rank: 20
+Name: Columbia University
+State: New York
+Tel: 212-854-1754
+Website: http://www.columbia.edu
+Student Population: 26,471
+Undergraduate Population: 7,814
+Student to Faculty Ratio: 6
+Total Annual Cost: $64,144
+In-State Tuition: $49,138
+Out-of-State Tuition: $49,138
+Percent on Financial Aid: 58.0%
+Percent Admitted: 7.0%
+SAT Composite Range: 1390-1570
+ACT Composite Range: 31-34
+#19 in Private Colleges
+#11 in Research Universities
+#15 in the Northeast
+Male: 53%
+Female: 47%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 16.0%
+Black or African American: 8.0%
+Hispanic/Latino: 14.0%
+White: 40.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 4.0%
+Non-Resident Alien: 13.0%
+Full-Time: 93.0%
+Part-Time: 7.0%
+############### Next ###############
+Rank: 21
+Name: California Institute of Technology
+State: California
+Tel: (626) 395-6811
+Website: http://www.caltech.edu/
+Student Population: 2,243
+Undergraduate Population: 997
+Student to Faculty Ratio: 3
+Total Annual Cost: $58,755
+In-State Tuition: $41,538
+Out-of-State Tuition: $41,538
+Percent on Financial Aid: 72.0%
+Percent Admitted: 11.0%
+SAT Composite Range: 1490-1600
+ACT Composite Range: 33-35
+#20 in Private Colleges
+#12 in Research Universities
+#3 in the West
+Male: 62%
+Female: 38%
+Asian/Native Hawaiian/Pacific Islander: 40.0%
+Black or African American: 2.0%
+Hispanic/Latino: 10.0%
+White: 31.0%
+Two or More Races: 5.0%
+Non-Resident Alien: 11.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 22
+Name: Davidson College
+State: North Carolina
+Tel: (704) 894-2000
+Website: http://www.davidson.edu/
+Student Population: 1,790
+Undergraduate Population: 1,790
+Student to Faculty Ratio: 10
+Total Annual Cost: $57,458
+In-State Tuition: $42,849
+Out-of-State Tuition: $42,849
+Percent on Financial Aid: 70.0%
+Percent Admitted: 26.0%
+SAT Composite Range: 1230-1440
+ACT Composite Range: 29-33
+#21 in Private Colleges
+#1 in the South
+Male: 50%
+Female: 50%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 5.0%
+Black or African American: 7.0%
+Hispanic/Latino: 6.0%
+White: 71.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 4.0%
+Non-Resident Alien: 5.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 23
+Name: Duke University
+State: North Carolina
+Tel: 919-684-8111
+Website: http://duke.edu/
+Student Population: 15,386
+Undergraduate Population: 6,655
+Student to Faculty Ratio: 7
+Total Annual Cost: $61,748
+In-State Tuition: $45,376
+Out-of-State Tuition: $45,376
+Percent on Financial Aid: 69.0%
+Percent Admitted: 13.0%
+SAT Composite Range: 1360-1550
+ACT Composite Range: 30-34
+#22 in Private Colleges
+#13 in Research Universities
+#2 in the South
+Male: 50%
+Female: 50%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 20.0%
+Black or African American: 10.0%
+Hispanic/Latino: 6.0%
+White: 47.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 6.0%
+Non-Resident Alien: 8.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 24
+Name: University of Chicago
+State: Illinois
+Tel: 773-702-8650
+Website: http://www.uchicago.edu/
+Student Population: 15,245
+Undergraduate Population: 5,618
+Student to Faculty Ratio: 6
+Total Annual Cost: $64,988
+In-State Tuition: $47,514
+Out-of-State Tuition: $47,514
+Percent on Financial Aid: 68.0%
+Percent Admitted: 9.0%
+SAT Composite Range: 1440-1590
+ACT Composite Range: 32-35
+#23 in Private Colleges
+#14 in Research Universities
+#4 in the Midwest
+Male: 53%
+Female: 47%
+Asian/Native Hawaiian/Pacific Islander: 18.0%
+Black or African American: 5.0%
+Hispanic/Latino: 8.0%
+White: 46.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 9.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 25
+Name: Tufts University
+State: Massachusetts
+Tel: 617-628-5000
+Website: http://www.tufts.edu
+Student Population: 10,837
+Undergraduate Population: 5,255
+Student to Faculty Ratio: 9
+Total Annual Cost: $61,000
+In-State Tuition: $46,598
+Out-of-State Tuition: $46,598
+Percent on Financial Aid: 50.0%
+Percent Admitted: 19.0%
+SAT Composite Range: 1370-1520
+ACT Composite Range: 30-33
+#24 in Private Colleges
+#15 in Research Universities
+#16 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 10.0%
+Black or African American: 4.0%
+Hispanic/Latino: 7.0%
+White: 57.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 11.0%
+Non-Resident Alien: 7.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 26
+Name: Vassar College
+State: New York
+Tel: (845) 437-7000
+Website: http://www.vassar.edu/
+Student Population: 2,406
+Undergraduate Population: 2,406
+Student to Faculty Ratio: 8
+Total Annual Cost: $61,320
+In-State Tuition: $47,890
+Out-of-State Tuition: $47,890
+Percent on Financial Aid: 74.0%
+Percent Admitted: 24.0%
+SAT Composite Range: 1310-1470
+ACT Composite Range: 30-33
+#25 in Private Colleges
+#17 in the Northeast
+Male: 44%
+Female: 56%
+Asian/Native Hawaiian/Pacific Islander: 9.0%
+Black or African American: 6.0%
+Hispanic/Latino: 11.0%
+White: 62.0%
+Two or More Races: 5.0%
+Non-Resident Alien: 7.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 27
+Name: United States Naval Academy
+State: Maryland
+Tel: 410-293-1000
+Website: http://www.usna.edu
+Student Population: 4,536
+Undergraduate Population: 4,536
+Student to Faculty Ratio: 9
+Total Annual Cost: $0
+Percent Admitted: 7.0%
+SAT Composite Range: 1180-1380
+#18 in the Northeast
+Male: 79%
+Female: 21%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 7.0%
+Hispanic/Latino: 12.0%
+White: 65.0%
+Two or More Races: 8.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 1.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 28
+Name: Georgetown University
+State: District of Columbia
+Tel: 202-687-0100
+Website: http://www.georgetown.edu
+Student Population: 17,357
+Undergraduate Population: 7,552
+Student to Faculty Ratio: 11
+Total Annual Cost: $62,179
+In-State Tuition: $44,805
+Out-of-State Tuition: $44,805
+Percent on Financial Aid: 56.0%
+Percent Admitted: 17.0%
+SAT Composite Range: 1310-1500
+ACT Composite Range: 29-33
+#26 in Private Colleges
+#16 in Research Universities
+#19 in the Northeast
+Male: 44%
+Female: 56%
+Asian/Native Hawaiian/Pacific Islander: 9.0%
+Black or African American: 6.0%
+Hispanic/Latino: 8.0%
+White: 60.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 11.0%
+Full-Time: 96.0%
+Part-Time: 4.0%
+############### Next ###############
+Rank: 29
+Name: Wellesley College
+State: Massachusetts
+Tel: (781) 283-1000
+Website: http://www.wellesley.edu/
+Student Population: 2,482
+Undergraduate Population: 2,482
+Student to Faculty Ratio: 8
+Total Annual Cost: $59,092
+In-State Tuition: $43,554
+Out-of-State Tuition: $43,554
+Percent on Financial Aid: 65.0%
+Percent Admitted: 29.0%
+SAT Composite Range: 1310-1510
+ACT Composite Range: 29-33
+#27 in Private Colleges
+#20 in the Northeast
+Male: 2%
+Female: 98%
+Asian/Native Hawaiian/Pacific Islander: 20.0%
+Black or African American: 6.0%
+Hispanic/Latino: 9.0%
+White: 43.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 12.0%
+Full-Time: 95.0%
+Part-Time: 5.0%
+############### Next ###############
+Rank: 30
+Name: Middlebury College
+State: Vermont
+Tel: 802-443-3000
+Website: http://www.middlebury.edu
+Student Population: 2,516
+Undergraduate Population: 2,516
+Student to Faculty Ratio: 9
+Total Annual Cost: $59,470
+In-State Tuition: $45,314
+Out-of-State Tuition: $45,314
+Percent on Financial Aid: 43.0%
+Percent Admitted: 17.0%
+SAT Composite Range: 1270-1480
+ACT Composite Range: 31-33
+#28 in Private Colleges
+#21 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 2.0%
+Hispanic/Latino: 7.0%
+White: 67.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 10.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 31
+Name: Cornell University
+State: New York
+Tel: (607) 254-4636
+Website: http://www.cornell.edu/
+Student Population: 21,424
+Undergraduate Population: 14,261
+Student to Faculty Ratio: 12
+Total Annual Cost: $61,618
+In-State Tuition: $45,358
+Out-of-State Tuition: $45,358
+Percent on Financial Aid: 66.0%
+Percent Admitted: 16.0%
+SAT Composite Range: 1320-1520
+ACT Composite Range: 30-34
+#29 in Private Colleges
+#17 in Research Universities
+#22 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 16.0%
+Black or African American: 6.0%
+Hispanic/Latino: 10.0%
+White: 44.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 10.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 32
+Name: Rice University
+State: Texas
+Tel: 713-348-0000
+Website: http://www.rice.edu
+Student Population: 6,484
+Undergraduate Population: 3,848
+Student to Faculty Ratio: 9
+Total Annual Cost: $54,291
+In-State Tuition: $38,941
+Out-of-State Tuition: $38,941
+Percent on Financial Aid: 75.0%
+Percent Admitted: 17.0%
+SAT Composite Range: 1370-1550
+ACT Composite Range: 31-34
+#30 in Private Colleges
+#18 in Research Universities
+#3 in the South
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 21.0%
+Black or African American: 7.0%
+Hispanic/Latino: 14.0%
+White: 41.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 11.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 33
+Name: Washington and Lee University
+State: Virginia
+Tel: (540) 458-8400
+Website: http://www.wlu.edu/
+Student Population: 2,302
+Undergraduate Population: 1,838
+Student to Faculty Ratio: 8
+Total Annual Cost: $58,575
+In-State Tuition: $44,507
+Out-of-State Tuition: $44,507
+Percent on Financial Aid: 66.0%
+Percent Admitted: 18.0%
+SAT Composite Range: 1310-1460
+ACT Composite Range: 30-33
+#31 in Private Colleges
+#4 in the South
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 3.0%
+Hispanic/Latino: 3.0%
+White: 83.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 4.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 34
+Name: United States Air Force Academy
+State: Colorado
+Tel: (719) 333-3070
+Website: http://www.usafa.af.mil
+Student Population: 4,120
+Undergraduate Population: 4,120
+Student to Faculty Ratio: 8
+Total Annual Cost: $0
+Percent Admitted: 15.0%
+SAT Composite Range: 1210-1400
+ACT Composite Range: 29-32
+#4 in the West
+Male: 78%
+Female: 22%
+Asian/Native Hawaiian/Pacific Islander: 5.0%
+Black or African American: 5.0%
+Hispanic/Latino: 9.0%
+White: 71.0%
+Two or More Races: 7.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 1.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 35
+Name: Barnard College
+State: New York
+Tel: (212) 854-5262
+Website: http://barnard.edu/
+Student Population: 2,504
+Undergraduate Population: 2,504
+Student to Faculty Ratio: 10
+Total Annual Cost: $61,512
+In-State Tuition: $44,790
+Out-of-State Tuition: $44,790
+Percent on Financial Aid: 57.0%
+Percent Admitted: 21.0%
+SAT Composite Range: 1240-1440
+ACT Composite Range: 28-32
+#32 in Private Colleges
+#23 in the Northeast
+Female: 100%
+Asian/Native Hawaiian/Pacific Islander: 17.0%
+Black or African American: 5.0%
+Hispanic/Latino: 10.0%
+White: 61.0%
+Non-Resident Alien: 7.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 36
+Name: Boston College
+State: Massachusetts
+Tel: (617) 552-8000
+Website: http://www.bc.edu/
+Student Population: 14,605
+Undergraduate Population: 9,837
+Student to Faculty Ratio: 15
+Total Annual Cost: $60,706
+In-State Tuition: $45,622
+Out-of-State Tuition: $45,622
+Percent on Financial Aid: 58.0%
+Percent Admitted: 32.0%
+SAT Composite Range: 1270-1450
+ACT Composite Range: 30-33
+#33 in Private Colleges
+#19 in Research Universities
+#24 in the Northeast
+Male: 47%
+Female: 53%
+Asian/Native Hawaiian/Pacific Islander: 9.0%
+Black or African American: 4.0%
+Hispanic/Latino: 11.0%
+White: 58.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 11.0%
+Non-Resident Alien: 4.0%
+Full-Time: 97.0%
+Part-Time: 3.0%
+############### Next ###############
+Rank: 37
+Name: University of California, Berkeley
+State: California
+Tel: (510) 642-6000
+Website: http://www.berkeley.edu/
+Student Population: 35,893
+Undergraduate Population: 25,774
+Student to Faculty Ratio: 17
+Total Annual Cost: $56,197
+In-State Tuition: $12,864
+Out-of-State Tuition: $35,742
+Percent on Financial Aid: 62.0%
+Percent Admitted: 18.0%
+SAT Composite Range: 1160-1490
+ACT Composite Range: 27-33
+#20 in Research Universities
+#5 in the West
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 36.0%
+Black or African American: 2.0%
+Hispanic/Latino: 13.0%
+White: 30.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 4.0%
+Non-Resident Alien: 11.0%
+Full-Time: 97.0%
+Part-Time: 3.0%
+############### Next ###############
+Rank: 38
+Name: Colgate University
+State: New York
+Tel: (315) 228-7000
+Website: http://www.colgate.edu/
+Student Population: 2,886
+Undergraduate Population: 2,871
+Student to Faculty Ratio: 9
+Total Annual Cost: $60,050
+In-State Tuition: $46,380
+Out-of-State Tuition: $46,380
+Percent on Financial Aid: 41.0%
+Percent Admitted: 26.0%
+SAT Composite Range: 1270-1460
+ACT Composite Range: 30-32
+#34 in Private Colleges
+#25 in the Northeast
+Male: 47%
+Female: 53%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 4.0%
+Hispanic/Latino: 8.0%
+White: 69.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 8.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 39
+Name: Colby College
+State: Maine
+Tel: (207) 859-4000
+Website: http://www.colby.edu/
+Student Population: 1,863
+Undergraduate Population: 1,863
+Student to Faculty Ratio: 10
+Total Annual Cost: $59,110
+In-State Tuition: $45,760
+Out-of-State Tuition: $45,760
+Percent on Financial Aid: 49.0%
+Percent Admitted: 26.0%
+SAT Composite Range: 1260-1430
+ACT Composite Range: 28-32
+#35 in Private Colleges
+#26 in the Northeast
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 3.0%
+Hispanic/Latino: 5.0%
+White: 60.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 15.0%
+Non-Resident Alien: 7.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 40
+Name: University of Virginia
+State: Virginia
+Tel: (434) 924-0211
+Website: http://www.virginia.edu/
+Student Population: 23,907
+Undergraduate Population: 15,822
+Student to Faculty Ratio: 16
+Total Annual Cost: $53,461
+In-State Tuition: $12,668
+Out-of-State Tuition: $40,054
+Percent on Financial Aid: 58.0%
+Percent Admitted: 30.0%
+SAT Composite Range: 1250-1460
+ACT Composite Range: 29-33
+#21 in Research Universities
+#5 in the South
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 12.0%
+Black or African American: 6.0%
+Hispanic/Latino: 5.0%
+White: 60.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 7.0%
+Non-Resident Alien: 6.0%
+Full-Time: 94.0%
+Part-Time: 6.0%
+############### Next ###############
+Rank: 41
+Name: College of William and Mary
+State: Virginia
+Tel: 757.221.4223
+Website: http://www.wm.edu/
+Student Population: 8,258
+Undergraduate Population: 6,171
+Student to Faculty Ratio: 12
+Total Annual Cost: $51,306
+In-State Tuition: $15,463
+Out-of-State Tuition: $38,440
+Percent on Financial Aid: 54.0%
+Percent Admitted: 33.0%
+SAT Composite Range: 1270-1460
+ACT Composite Range: 28-32
+#22 in Research Universities
+#6 in the South
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 7.0%
+Hispanic/Latino: 9.0%
+White: 59.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 4.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 42
+Name: Kenyon College
+State: Ohio
+Tel: (740) 427-5000
+Website: http://kenyon.edu
+Student Population: 1,667
+Undergraduate Population: 1,667
+Student to Faculty Ratio: 9
+Total Annual Cost: $60,070
+In-State Tuition: $45,640
+Out-of-State Tuition: $45,640
+Percent on Financial Aid: 68.0%
+Percent Admitted: 38.0%
+SAT Composite Range: 1230-1410
+ACT Composite Range: 28-32
+#36 in Private Colleges
+#5 in the Midwest
+Male: 47%
+Female: 53%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 7.0%
+Black or African American: 3.0%
+Hispanic/Latino: 5.0%
+White: 76.0%
+Two or More Races: 1.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 4.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 43
+Name: Oberlin College
+State: Ohio
+Tel: (440) 775-8121
+Website: http://www.oberlin.edu/
+Student Population: 2,944
+Undergraduate Population: 2,930
+Student to Faculty Ratio: 9
+Total Annual Cost: $62,132
+In-State Tuition: $46,870
+Out-of-State Tuition: $46,870
+Percent on Financial Aid: 88.0%
+Percent Admitted: 30.0%
+SAT Composite Range: 1270-1455
+ACT Composite Range: 28-32
+#37 in Private Colleges
+#6 in the Midwest
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 5.0%
+Hispanic/Latino: 7.0%
+White: 71.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 6.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 44
+Name: University of California, Los Angeles
+State: California
+Tel: 310-825-4321
+Website: http://ucla.edu
+Student Population: 39,945
+Undergraduate Population: 27,941
+Student to Faculty Ratio: 16
+Total Annual Cost: $55,294
+In-State Tuition: $12,697
+Out-of-State Tuition: $35,575
+Percent on Financial Aid: 68.0%
+Percent Admitted: 22.0%
+SAT Composite Range: 1160-1440
+ACT Composite Range: 25-31
+#23 in Research Universities
+#6 in the West
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 33.0%
+Black or African American: 3.0%
+Hispanic/Latino: 18.0%
+White: 30.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 10.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 45
+Name: University of Michigan, Ann Arbor
+State: Michigan
+Tel: (734) 764-1817
+Website: http://www.umich.edu/
+Student Population: 43,426
+Undergraduate Population: 27,979
+Student to Faculty Ratio: 12
+Total Annual Cost: $53,490
+In-State Tuition: $13,142
+Out-of-State Tuition: $40,392
+Percent on Financial Aid: 65.0%
+Percent Admitted: 33.0%
+SAT Composite Range: 1280-1480
+ACT Composite Range: 28-32
+#24 in Research Universities
+#7 in the Midwest
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 12.0%
+Black or African American: 4.0%
+Hispanic/Latino: 4.0%
+White: 65.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 6.0%
+Full-Time: 97.0%
+Part-Time: 3.0%
+############### Next ###############
+Rank: 46
+Name: Reed College
+State: Oregon
+Tel: 503-771-1112
+Website: http://www.reed.edu/
+Student Population: 1,455
+Undergraduate Population: 1,432
+Student to Faculty Ratio: 10
+Total Annual Cost: $59,630
+In-State Tuition: $46,010
+Out-of-State Tuition: $46,010
+Percent on Financial Aid: 49.0%
+Percent Admitted: 49.0%
+SAT Composite Range: 1280-1470
+ACT Composite Range: 28-33
+#38 in Private Colleges
+#7 in the West
+Male: 46%
+Female: 54%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 3.0%
+Hispanic/Latino: 9.0%
+White: 60.0%
+Two or More Races: 1.0%
+Race/Ethnicity Unknown: 12.0%
+Non-Resident Alien: 6.0%
+Full-Time: 97.0%
+Part-Time: 3.0%
+############### Next ###############
+Rank: 47
+Name: Whitman College
+State: Washington
+Tel: (509) 527-5111
+Website: http://www.whitman.edu/
+Student Population: 1,539
+Undergraduate Population: 1,539
+Student to Faculty Ratio: 9
+Total Annual Cost: $56,600
+In-State Tuition: $43,500
+Out-of-State Tuition: $43,500
+Percent on Financial Aid: 85.0%
+Percent Admitted: 57.0%
+SAT Composite Range: 1220-1423
+ACT Composite Range: 28-32
+#39 in Private Colleges
+#8 in the West
+Male: 43%
+Female: 57%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 1.0%
+Hispanic/Latino: 6.0%
+White: 72.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 6.0%
+Non-Resident Alien: 3.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 48
+Name: Lafayette College
+State: Pennsylvania
+Tel: (610) 330-5000
+Website: http://www.lafayette.edu/
+Student Population: 2,488
+Undergraduate Population: 2,488
+Student to Faculty Ratio: 10
+Total Annual Cost: $59,750
+In-State Tuition: $44,670
+Out-of-State Tuition: $44,670
+Percent on Financial Aid: 68.0%
+Percent Admitted: 34.0%
+SAT Composite Range: 1180-1370
+ACT Composite Range: 27-31
+#40 in Private Colleges
+#27 in the Northeast
+Male: 53%
+Female: 47%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 5.0%
+Hispanic/Latino: 6.0%
+White: 66.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 12.0%
+Non-Resident Alien: 5.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 49
+Name: Smith College
+State: Massachusetts
+Tel: 413-584-2700
+Website: http://www.smith.edu
+Student Population: 3,212
+Undergraduate Population: 2,664
+Student to Faculty Ratio: 9
+Total Annual Cost: $60,167
+In-State Tuition: $43,114
+Out-of-State Tuition: $43,114
+Percent on Financial Aid: 72.0%
+Percent Admitted: 43.0%
+#41 in Private Colleges
+#28 in the Northeast
+Male: 0%
+Female: 100%
+Asian/Native Hawaiian/Pacific Islander: 12.0%
+Black or African American: 5.0%
+Hispanic/Latino: 9.0%
+White: 47.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 11.0%
+Non-Resident Alien: 12.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 50
+Name: University of North Carolina, Chapel Hill
+State: North Carolina
+Tel: (919) 962-2211
+Website: https://www.unc.edu/
+Student Population: 29,278
+Undergraduate Population: 18,503
+Student to Faculty Ratio: 14
+Total Annual Cost: $45,806
+In-State Tuition: $8,340
+Out-of-State Tuition: $30,122
+Percent on Financial Aid: 69.0%
+Percent Admitted: 28.0%
+SAT Composite Range: 1200-1410
+ACT Composite Range: 28-32
+#25 in Research Universities
+#7 in the South
+Male: 42%
+Female: 58%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 9.0%
+Hispanic/Latino: 8.0%
+White: 66.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 3.0%
+Full-Time: 95.0%
+Part-Time: 5.0%
+############### Next ###############
+Rank: 51
+Name: Colorado College
+State: Colorado
+Tel: 719-389-6603
+Website: http://www.coloradocollege.edu/
+Student Population: 2,022
+Undergraduate Population: 2,004
+Student to Faculty Ratio: 10
+Total Annual Cost: $57,400
+In-State Tuition: $44,222
+Out-of-State Tuition: $44,222
+Percent on Financial Aid: 57.0%
+Percent Admitted: 22.0%
+SAT Composite Range: 1220-1430
+ACT Composite Range: 27-32
+#42 in Private Colleges
+#9 in the West
+Male: 46%
+Female: 54%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 2.0%
+Hispanic/Latino: 7.0%
+White: 73.0%
+Two or More Races: 7.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 6.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 52
+Name: Harvey Mudd College
+State: California
+Tel: (909) 621-8011
+Website: http://www.hmc.edu/
+Student Population: 784
+Undergraduate Population: 784
+Student to Faculty Ratio: 8
+Total Annual Cost: $63,860
+In-State Tuition: $46,509
+Out-of-State Tuition: $46,509
+Percent on Financial Aid: 76.0%
+Percent Admitted: 18.0%
+SAT Composite Range: 1400-1560
+ACT Composite Range: 32-35
+#43 in Private Colleges
+#10 in the West
+Male: 56%
+Female: 44%
+Asian/Native Hawaiian/Pacific Islander: 21.0%
+Black or African American: 1.0%
+Hispanic/Latino: 7.0%
+White: 54.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 8.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 53
+Name: College of the Holy Cross
+State: Massachusetts
+Tel: (508) 793-2011
+Website: http://www.holycross.edu
+Student Population: 2,926
+Undergraduate Population: 2,926
+Student to Faculty Ratio: 10
+Total Annual Cost: $57,832
+In-State Tuition: $44,272
+Out-of-State Tuition: $44,272
+Percent on Financial Aid: 73.0%
+Percent Admitted: 33.0%
+#44 in Private Colleges
+#29 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 5.0%
+Black or African American: 5.0%
+Hispanic/Latino: 10.0%
+White: 68.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 9.0%
+Non-Resident Alien: 1.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 54
+Name: Vanderbilt University
+State: Tennessee
+Tel: (615) 322-7311
+Website: http://www.vanderbilt.edu/
+Student Population: 12,710
+Undergraduate Population: 6,796
+Student to Faculty Ratio: 8
+Total Annual Cost: $61,112
+In-State Tuition: $42,978
+Out-of-State Tuition: $42,978
+Percent on Financial Aid: 66.0%
+Percent Admitted: 13.0%
+SAT Composite Range: 1410-1570
+ACT Composite Range: 32-34
+#45 in Private Colleges
+#26 in Research Universities
+#8 in the South
+Male: 50%
+Female: 50%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 8.0%
+Hispanic/Latino: 8.0%
+White: 62.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 4.0%
+Non-Resident Alien: 6.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 55
+Name: Hamilton College
+State: New York
+Tel: (315) 859-4011
+Website: http://www.hamilton.edu
+Student Population: 1,884
+Undergraduate Population: 1,884
+Student to Faculty Ratio: 9
+Total Annual Cost: $59,590
+In-State Tuition: $46,080
+Out-of-State Tuition: $46,080
+Percent on Financial Aid: 58.0%
+Percent Admitted: 27.0%
+SAT Composite Range: 1300-1470
+ACT Composite Range: 29-33
+#46 in Private Colleges
+#30 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 4.0%
+Hispanic/Latino: 7.0%
+White: 63.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 12.0%
+Non-Resident Alien: 5.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 56
+Name: Franklin and Marshall College
+State: Pennsylvania
+Tel: 877-678-9111
+Website: http://fandm.edu
+Student Population: 2,365
+Undergraduate Population: 2,365
+Student to Faculty Ratio: 9
+Total Annual Cost: $60,765
+In-State Tuition: $46,285
+Out-of-State Tuition: $46,285
+Percent on Financial Aid: 58.0%
+Percent Admitted: 39.0%
+#47 in Private Colleges
+#31 in the Northeast
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 4.0%
+Hispanic/Latino: 6.0%
+White: 65.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 8.0%
+Non-Resident Alien: 10.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 57
+Name: Union College
+State: New York
+Tel: 518-388-6000
+Website: http://www.union.edu
+Student Population: 2,241
+Undergraduate Population: 2,241
+Student to Faculty Ratio: 10
+Total Annual Cost: $60,150
+In-State Tuition: $46,785
+Out-of-State Tuition: $46,785
+Percent on Financial Aid: 83.0%
+Percent Admitted: 37.0%
+SAT Composite Range: 1220-1400
+ACT Composite Range: 28-31
+#48 in Private Colleges
+#32 in the Northeast
+Male: 54%
+Female: 46%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 4.0%
+Hispanic/Latino: 7.0%
+White: 75.0%
+Two or More Races: 2.0%
+Non-Resident Alien: 6.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 58
+Name: Grinnell College
+State: Iowa
+Tel: (641) 269-4000
+Website: http://www.grinnell.edu/
+Student Population: 1,674
+Undergraduate Population: 1,674
+Student to Faculty Ratio: 9
+Total Annual Cost: $56,354
+In-State Tuition: $43,656
+Out-of-State Tuition: $43,656
+Percent on Financial Aid: 88.0%
+Percent Admitted: 35.0%
+SAT Composite Range: 1250-1500
+ACT Composite Range: 28-32
+#49 in Private Colleges
+#8 in the Midwest
+Male: 46%
+Female: 54%
+Asian/Native Hawaiian/Pacific Islander: 7.0%
+Black or African American: 5.0%
+Hispanic/Latino: 7.0%
+White: 57.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 7.0%
+Non-Resident Alien: 12.0%
+Full-Time: 96.0%
+Part-Time: 4.0%
+############### Next ###############
+Rank: 59
+Name: Carnegie Mellon University
+State: Pennsylvania
+Tel: 412-268-2082
+Website: http://www.cmu.edu/index.shtml
+Student Population: 11,978
+Undergraduate Population: 5,921
+Student to Faculty Ratio: 13
+Total Annual Cost: $62,032
+In-State Tuition: $47,642
+Out-of-State Tuition: $47,642
+Percent on Financial Aid: 76.0%
+Percent Admitted: 25.0%
+SAT Composite Range: 1340-1530
+ACT Composite Range: 30-34
+#50 in Private Colleges
+#27 in Research Universities
+#33 in the Northeast
+Male: 58%
+Female: 42%
+Asian/Native Hawaiian/Pacific Islander: 23.0%
+Black or African American: 5.0%
+Hispanic/Latino: 7.0%
+White: 41.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 6.0%
+Non-Resident Alien: 13.0%
+Full-Time: 97.0%
+Part-Time: 3.0%
+############### Next ###############
+Rank: 60
+Name: Bates College
+State: Maine
+Tel: 207-786-6255
+Website: http://bates.edu
+Student Population: 1,753
+Undergraduate Population: 1,753
+Student to Faculty Ratio: 10
+Total Annual Cost: $61,000
+In-State Tuition: $45,650
+Out-of-State Tuition: $45,650
+Percent on Financial Aid: 48.0%
+Percent Admitted: 24.0%
+#51 in Private Colleges
+#34 in the Northeast
+Male: 47%
+Female: 53%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 4.0%
+Hispanic/Latino: 5.0%
+White: 74.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 6.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 61
+Name: Wake Forest University
+State: North Carolina
+Tel: 336.758.5201
+Website: http://www.wfu.edu/
+Student Population: 7,432
+Undergraduate Population: 4,815
+Student to Faculty Ratio: 11
+Total Annual Cost: $60,242
+In-State Tuition: $44,742
+Out-of-State Tuition: $44,742
+Percent on Financial Aid: 80.0%
+Percent Admitted: 35.0%
+#52 in Private Colleges
+#28 in Research Universities
+#9 in the South
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 5.0%
+Black or African American: 7.0%
+Hispanic/Latino: 5.0%
+White: 76.0%
+Two or More Races: 2.0%
+Non-Resident Alien: 3.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 62
+Name: University of Rochester
+State: New York
+Tel: (585) 275-2121
+Website: http://www.rochester.edu/
+Student Population: 10,510
+Undergraduate Population: 5,785
+Student to Faculty Ratio: 10
+Total Annual Cost: $61,340
+In-State Tuition: $45,372
+Out-of-State Tuition: $45,372
+Percent on Financial Aid: 90.0%
+Percent Admitted: 36.0%
+SAT Composite Range: 1250-1450
+ACT Composite Range: 29-32
+#53 in Private Colleges
+#29 in Research Universities
+#35 in the Northeast
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 11.0%
+Black or African American: 5.0%
+Hispanic/Latino: 6.0%
+White: 56.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 7.0%
+Non-Resident Alien: 13.0%
+Full-Time: 95.0%
+Part-Time: 5.0%
+############### Next ###############
+Rank: 63
+Name: Washington University in Saint Louis
+State: Missouri
+Tel: (314) 935-5000
+Website: http://wustl.edu/
+Student Population: 13,952
+Undergraduate Population: 7,259
+Student to Faculty Ratio: 7
+Total Annual Cost: $61,808
+In-State Tuition: $44,841
+Out-of-State Tuition: $44,841
+Percent on Financial Aid: 58.0%
+Percent Admitted: 16.0%
+SAT Composite Range: 1420-1550
+ACT Composite Range: 32-34
+#54 in Private Colleges
+#30 in Research Universities
+#9 in the Midwest
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 16.0%
+Black or African American: 6.0%
+Hispanic/Latino: 5.0%
+White: 56.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 8.0%
+Full-Time: 89.0%
+Part-Time: 11.0%
+############### Next ###############
+Rank: 64
+Name: Cooper Union
+State: New York
+Tel: (212) 353-4100
+Website: http://cooper.edu/
+Student Population: 939
+Undergraduate Population: 880
+Student to Faculty Ratio: 8
+Total Annual Cost: $60,075
+In-State Tuition: $41,400
+Out-of-State Tuition: $41,400
+Percent on Financial Aid: 100.0%
+Percent Admitted: 8.0%
+SAT Composite Range: 1220-1490
+ACT Composite Range: 29-33
+#55 in Private Colleges
+#36 in the Northeast
+Male: 63%
+Female: 37%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 19.0%
+Black or African American: 6.0%
+Hispanic/Latino: 8.0%
+White: 37.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 14.0%
+Non-Resident Alien: 11.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 65
+Name: Bryn Mawr College
+State: Pennsylvania
+Tel: 610-526-5000
+Website: http://www.brynmawr.edu/
+Student Population: 1,765
+Undergraduate Population: 1,313
+Student to Faculty Ratio: 8
+Total Annual Cost: $59,760
+In-State Tuition: $43,900
+Out-of-State Tuition: $43,900
+Percent on Financial Aid: 81.0%
+Percent Admitted: 40.0%
+SAT Composite Range: 1210-1470
+ACT Composite Range: 27-32
+#56 in Private Colleges
+#37 in the Northeast
+Female: 100%
+Asian/Native Hawaiian/Pacific Islander: 13.0%
+Black or African American: 5.0%
+Hispanic/Latino: 9.0%
+White: 35.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 13.0%
+Non-Resident Alien: 20.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 66
+Name: Macalester College
+State: Minnesota
+Tel: (651) 696-6000
+Website: http://www.macalester.edu/
+Student Population: 2,070
+Undergraduate Population: 2,070
+Student to Faculty Ratio: 10
+Total Annual Cost: $57,478
+In-State Tuition: $45,388
+Out-of-State Tuition: $45,388
+Percent on Financial Aid: 80.0%
+Percent Admitted: 34.0%
+SAT Composite Range: 1230-1450
+ACT Composite Range: 29-32
+#57 in Private Colleges
+#10 in the Midwest
+Male: 40%
+Female: 60%
+Asian/Native Hawaiian/Pacific Islander: 7.0%
+Black or African American: 3.0%
+Hispanic/Latino: 6.0%
+White: 66.0%
+Two or More Races: 5.0%
+Non-Resident Alien: 13.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 67
+Name: Johns Hopkins University
+State: Maryland
+Tel: 410-516-8000
+Website: http://www.jhu.edu/
+Student Population: 20,871
+Undergraduate Population: 6,023
+Student to Faculty Ratio: 10
+Total Annual Cost: $61,502
+In-State Tuition: $45,470
+Out-of-State Tuition: $45,470
+Percent on Financial Aid: 60.0%
+Percent Admitted: 18.0%
+SAT Composite Range: 1320-1510
+ACT Composite Range: 30-34
+#58 in Private Colleges
+#31 in Research Universities
+#38 in the Northeast
+Male: 50%
+Female: 50%
+Asian/Native Hawaiian/Pacific Islander: 18.0%
+Black or African American: 6.0%
+Hispanic/Latino: 9.0%
+White: 50.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 10.0%
+Full-Time: 97.0%
+Part-Time: 3.0%
+############### Next ###############
+Rank: 68
+Name: University of Illinois, Urbana-Champaign
+State: Illinois
+Tel: 217-333-0302
+Website: http://illinois.edu
+Student Population: 44,520
+Undergraduate Population: 32,281
+Student to Faculty Ratio: 20
+Total Annual Cost: $43,468
+In-State Tuition: $14,750
+Out-of-State Tuition: $29,132
+Percent on Financial Aid: 68.0%
+Percent Admitted: 62.0%
+SAT Composite Range: 1260-1450
+ACT Composite Range: 26-31
+#32 in Research Universities
+#11 in the Midwest
+Male: 56%
+Female: 44%
+Asian/Native Hawaiian/Pacific Islander: 14.0%
+Black or African American: 5.0%
+Hispanic/Latino: 7.0%
+White: 56.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 14.0%
+Full-Time: 96.0%
+Part-Time: 4.0%
+############### Next ###############
+Rank: 69
+Name: Scripps College
+State: California
+Tel: (909) 621-8000
+Website: http://www.scrippscollege.edu/
+Student Population: 962
+Undergraduate Population: 945
+Student to Faculty Ratio: 10
+Total Annual Cost: $61,370
+In-State Tuition: $45,564
+Out-of-State Tuition: $45,564
+Percent on Financial Aid: 56.0%
+Percent Admitted: 36.0%
+SAT Composite Range: 1280-1453
+ACT Composite Range: 29-32
+#59 in Private Colleges
+#11 in the West
+Female: 100%
+Asian/Native Hawaiian/Pacific Islander: 19.0%
+Black or African American: 4.0%
+Hispanic/Latino: 9.0%
+White: 52.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 9.0%
+Non-Resident Alien: 5.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 70
+Name: University of Wisconsin, Madison
+State: Wisconsin
+Tel: (608) 263-2400
+Website: http://wisc.edu
+Student Population: 42,269
+Undergraduate Population: 30,301
+Student to Faculty Ratio: 18
+Total Annual Cost: $40,181
+In-State Tuition: $10,403
+Out-of-State Tuition: $26,653
+Percent on Financial Aid: 71.0%
+Percent Admitted: 68.0%
+SAT Composite Range: 1160-1400
+ACT Composite Range: 26-30
+#33 in Research Universities
+#12 in the Midwest
+Male: 48%
+Female: 52%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 2.0%
+Hispanic/Latino: 4.0%
+White: 77.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 7.0%
+Full-Time: 93.0%
+Part-Time: 7.0%
+############### Next ###############
+Rank: 71
+Name: Villanova University
+State: Pennsylvania
+Tel: (610) 519-4500
+Website: http://www.villanova.edu
+Student Population: 10,583
+Undergraduate Population: 7,100
+Student to Faculty Ratio: 12
+Total Annual Cost: $58,736
+In-State Tuition: $44,430
+Out-of-State Tuition: $44,430
+Percent on Financial Aid: 68.0%
+Percent Admitted: 49.0%
+SAT Composite Range: 1210-1400
+ACT Composite Range: 29-31
+#60 in Private Colleges
+#39 in the Northeast
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 5.0%
+Hispanic/Latino: 7.0%
+White: 75.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 3.0%
+Full-Time: 93.0%
+Part-Time: 7.0%
+############### Next ###############
+Rank: 72
+Name: New York University
+State: New York
+Tel: (212) 979-8784
+Website: http://www.nyu.edu/
+Student Population: 44,516
+Undergraduate Population: 22,498
+Student to Faculty Ratio: 10
+Total Annual Cost: $63,540
+In-State Tuition: $44,848
+Out-of-State Tuition: $44,848
+Percent on Financial Aid: 61.0%
+Percent Admitted: 26.0%
+SAT Composite Range: 1250-1460
+ACT Composite Range: 28-32
+#61 in Private Colleges
+#34 in Research Universities
+#40 in the Northeast
+Male: 40%
+Female: 60%
+Asian/Native Hawaiian/Pacific Islander: 19.0%
+Black or African American: 5.0%
+Hispanic/Latino: 10.0%
+White: 40.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 12.0%
+Non-Resident Alien: 12.0%
+Full-Time: 94.0%
+Part-Time: 6.0%
+############### Next ###############
+Rank: 73
+Name: University of Washington
+State: Washington
+Tel: 206-543-2100
+Website: http://www.washington.edu/
+Student Population: 43,485
+Undergraduate Population: 29,475
+Student to Faculty Ratio: 15
+Total Annual Cost: $46,608
+In-State Tuition: $12,397
+Out-of-State Tuition: $31,971
+Percent on Financial Aid: 56.0%
+Percent Admitted: 55.0%
+SAT Composite Range: 1100-1360
+ACT Composite Range: 25-30
+#35 in Research Universities
+#12 in the West
+Male: 48%
+Female: 52%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 25.0%
+Black or African American: 3.0%
+Hispanic/Latino: 7.0%
+White: 44.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 12.0%
+Full-Time: 89.0%
+Part-Time: 11.0%
+############### Next ###############
+Rank: 74
+Name: Brandeis University
+State: Massachusetts
+Tel: 781-736-2000
+Website: http://www.brandeis.edu/
+Student Population: 5,808
+Undergraduate Population: 3,588
+Student to Faculty Ratio: 10
+Total Annual Cost: $61,070
+In-State Tuition: $45,856
+Out-of-State Tuition: $45,856
+Percent on Financial Aid: 66.0%
+Percent Admitted: 37.0%
+SAT Composite Range: 1230-1470
+ACT Composite Range: 28-32
+#62 in Private Colleges
+#36 in Research Universities
+#41 in the Northeast
+Male: 43%
+Female: 57%
+Asian/Native Hawaiian/Pacific Islander: 13.0%
+Black or African American: 4.0%
+Hispanic/Latino: 6.0%
+White: 50.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 14.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 76
+Name: University of Texas, Austin
+State: Texas
+Tel: 512-475-7348
+Website: http://www.utexas.edu/
+Student Population: 52,186
+Undergraduate Population: 39,955
+Student to Faculty Ratio: 18
+Total Annual Cost: $50,200
+In-State Tuition: $9,798
+Out-of-State Tuition: $33,842
+Percent on Financial Aid: 62.0%
+Percent Admitted: 40.0%
+SAT Composite Range: 1140-1380
+ACT Composite Range: 25-31
+#37 in Research Universities
+#10 in the South
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 18.0%
+Black or African American: 4.0%
+Hispanic/Latino: 21.0%
+White: 49.0%
+Two or More Races: 2.0%
+Non-Resident Alien: 5.0%
+Full-Time: 93.0%
+Part-Time: 7.0%
+############### Next ###############
+Rank: 77
+Name: Lehigh University
+State: Pennsylvania
+Tel: (610) 758-3000
+Website: http://www4.lehigh.edu/default.aspx
+Student Population: 7,080
+Undergraduate Population: 4,883
+Student to Faculty Ratio: 10
+Total Annual Cost: $57,145
+In-State Tuition: $43,520
+Out-of-State Tuition: $43,520
+Percent on Financial Aid: 69.0%
+Percent Admitted: 31.0%
+SAT Composite Range: 1220-1410
+ACT Composite Range: 28-32
+#64 in Private Colleges
+#38 in Research Universities
+#42 in the Northeast
+Male: 57%
+Female: 43%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 4.0%
+Hispanic/Latino: 8.0%
+White: 69.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 4.0%
+Non-Resident Alien: 6.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 78
+Name: University of Southern California
+State: California
+Tel: (213) 740-2311
+Website: http://www.usc.edu/
+Student Population: 39,958
+Undergraduate Population: 18,316
+Student to Faculty Ratio: 9
+Total Annual Cost: $62,180
+In-State Tuition: $46,298
+Out-of-State Tuition: $46,298
+Percent on Financial Aid: 73.0%
+Percent Admitted: 20.0%
+SAT Composite Range: 1280-1480
+ACT Composite Range: 29-33
+#65 in Private Colleges
+#39 in Research Universities
+#13 in the West
+Male: 49%
+Female: 51%
+Asian/Native Hawaiian/Pacific Islander: 23.0%
+Black or African American: 4.0%
+Hispanic/Latino: 14.0%
+White: 39.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 12.0%
+Full-Time: 96.0%
+Part-Time: 4.0%
+############### Next ###############
+Rank: 79
+Name: Brigham Young University
+State: Utah
+Tel: (801) 422-1211
+Website: https://home.byu.edu/home/
+Student Population: 34,409
+Undergraduate Population: 31,060
+Student to Faculty Ratio: 21
+Total Annual Cost: $17,496
+In-State Tuition: $4,850
+Out-of-State Tuition: $4,850
+Percent on Financial Aid: 68.0%
+Percent Admitted: 49.0%
+SAT Composite Range: 1150-1360
+ACT Composite Range: 26-31
+#66 in Private Colleges
+#40 in Research Universities
+#14 in the West
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 2.0%
+Hispanic/Latino: 5.0%
+White: 84.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 3.0%
+Full-Time: 91.0%
+Part-Time: 9.0%
+############### Next ###############
+Rank: 80
+Name: Occidental College
+State: California
+Tel: 323-259-2700
+Website: http://www.oxy.edu/
+Student Population: 2,178
+Undergraduate Population: 2,177
+Student to Faculty Ratio: 10
+Total Annual Cost: $63,363
+In-State Tuition: $46,652
+Out-of-State Tuition: $46,652
+Percent on Financial Aid: 73.0%
+Percent Admitted: 42.0%
+SAT Composite Range: 1210-1400
+ACT Composite Range: 27-31
+#67 in Private Colleges
+#15 in the West
+Male: 44%
+Female: 56%
+Asian/Native Hawaiian/Pacific Islander: 13.0%
+Black or African American: 4.0%
+Hispanic/Latino: 15.0%
+White: 54.0%
+Two or More Races: 8.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 3.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 81
+Name: Centre College
+State: Kentucky
+Tel: (859) 238-5200
+Website: http://www.centre.edu/
+Student Population: 1,344
+Undergraduate Population: 1,344
+Student to Faculty Ratio: 11
+Total Annual Cost: $48,020
+In-State Tuition: $36,020
+Out-of-State Tuition: $36,020
+Percent on Financial Aid: 99.0%
+Percent Admitted: 69.0%
+SAT Composite Range: 1110-1350
+ACT Composite Range: 26-31
+#68 in Private Colleges
+#11 in the South
+Male: 47%
+Female: 53%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 5.0%
+Hispanic/Latino: 2.0%
+White: 84.0%
+Two or More Races: 3.0%
+Non-Resident Alien: 3.0%
+Full-Time: 100.0%
+############### Next ###############
+Rank: 82
+Name: University of Maryland, College Park
+State: Maryland
+Tel: (301) 405-1000
+Website: http://www.umd.edu/
+Student Population: 37,248
+Undergraduate Population: 26,538
+Student to Faculty Ratio: 18
+Total Annual Cost: $42,920
+In-State Tuition: $9,162
+Out-of-State Tuition: $28,348
+Percent on Financial Aid: 73.0%
+Percent Admitted: 47.0%
+SAT Composite Range: 1200-1420
+#41 in Research Universities
+#43 in the Northeast
+Male: 53%
+Female: 47%
+Asian/Native Hawaiian/Pacific Islander: 15.0%
+Black or African American: 12.0%
+Hispanic/Latino: 8.0%
+White: 55.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 3.0%
+Full-Time: 92.0%
+Part-Time: 8.0%
+############### Next ###############
+Rank: 83
+Name: Trinity College
+State: Connecticut
+Tel: (860) 297-2000
+Website: http://www.trincoll.edu/
+Student Population: 2,371
+Undergraduate Population: 2,285
+Student to Faculty Ratio: 10
+Total Annual Cost: $62,310
+In-State Tuition: $47,510
+Out-of-State Tuition: $47,510
+Percent on Financial Aid: 40.0%
+Percent Admitted: 32.0%
+SAT Composite Range: 1150-1350
+ACT Composite Range: 25-29
+#69 in Private Colleges
+#44 in the Northeast
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 7.0%
+Hispanic/Latino: 7.0%
+White: 65.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 6.0%
+Non-Resident Alien: 8.0%
+Full-Time: 95.0%
+Part-Time: 5.0%
+############### Next ###############
+Rank: 84
+Name: Connecticut College
+State: Connecticut
+Tel: (860) 447-1911
+Website: http://www.conncoll.edu/
+Student Population: 1,933
+Undergraduate Population: 1,926
+Student to Faculty Ratio: 9
+Total Annual Cost: $60,780
+In-State Tuition: $46,085
+Out-of-State Tuition: $46,085
+Percent on Financial Aid: 56.0%
+Percent Admitted: 36.0%
+#70 in Private Colleges
+#45 in the Northeast
+Male: 40%
+Female: 60%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 4.0%
+Hispanic/Latino: 7.0%
+White: 73.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 7.0%
+Non-Resident Alien: 4.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 85
+Name: Wofford College
+State: South Carolina
+Tel: 864-597-4130
+Website: http://www.wofford.edu/
+Student Population: 1,619
+Undergraduate Population: 1,619
+Student to Faculty Ratio: 12
+Total Annual Cost: $49,449
+In-State Tuition: $35,515
+Out-of-State Tuition: $35,515
+Percent on Financial Aid: 95.0%
+Percent Admitted: 69.0%
+SAT Composite Range: 1080-1260
+ACT Composite Range: 24-29
+#71 in Private Colleges
+#12 in the South
+Male: 51%
+Female: 49%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 8.0%
+Hispanic/Latino: 2.0%
+White: 81.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 2.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 86
+Name: Santa Clara University
+State: California
+Tel: 408-554-4000
+Website: http://www.scu.edu/
+Student Population: 8,519
+Undergraduate Population: 5,250
+Student to Faculty Ratio: 12
+Total Annual Cost: $59,589
+In-State Tuition: $42,156
+Out-of-State Tuition: $42,156
+Percent on Financial Aid: 79.0%
+Percent Admitted: 51.0%
+SAT Composite Range: 1200-1380
+ACT Composite Range: 27-31
+#72 in Private Colleges
+#16 in the West
+Male: 50%
+Female: 50%
+Asian/Native Hawaiian/Pacific Islander: 14.0%
+Black or African American: 3.0%
+Hispanic/Latino: 18.0%
+White: 46.0%
+Two or More Races: 6.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 3.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 87
+Name: University of Florida
+State: Florida
+Tel: 352-392-3261
+Website: http://www.ufl.edu
+Student Population: 49,913
+Undergraduate Population: 32,776
+Student to Faculty Ratio: 21
+Total Annual Cost: $41,381
+In-State Tuition: $6,263
+Out-of-State Tuition: $28,541
+Percent on Financial Aid: 98.0%
+Percent Admitted: 47.0%
+SAT Composite Range: 1170-1360
+ACT Composite Range: 26-31
+#42 in Research Universities
+#13 in the South
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 8.0%
+Hispanic/Latino: 18.0%
+White: 58.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 1.0%
+Full-Time: 92.0%
+Part-Time: 8.0%
+############### Next ###############
+Rank: 88
+Name: Dickinson College
+State: Pennsylvania
+Tel: 800-644-1773
+Website: http://www.dickinson.edu/
+Student Population: 2,386
+Undergraduate Population: 2,386
+Student to Faculty Ratio: 10
+Total Annual Cost: $60,183
+In-State Tuition: $46,094
+Out-of-State Tuition: $46,094
+Percent on Financial Aid: 70.0%
+Percent Admitted: 44.0%
+SAT Composite Range: 1190-1365
+ACT Composite Range: 27-31
+#73 in Private Colleges
+#46 in the Northeast
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 2.0%
+Black or African American: 3.0%
+Hispanic/Latino: 6.0%
+White: 77.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 8.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 89
+Name: Boston University
+State: Massachusetts
+Tel: 617-353-2300
+Website: http://www.bu.edu/
+Student Population: 32,603
+Undergraduate Population: 18,306
+Student to Faculty Ratio: 13
+Total Annual Cost: $61,446
+In-State Tuition: $44,880
+Out-of-State Tuition: $44,880
+Percent on Financial Aid: 60.0%
+Percent Admitted: 46.0%
+SAT Composite Range: 1180-1390
+ACT Composite Range: 26-30
+#74 in Private Colleges
+#43 in Research Universities
+#47 in the Northeast
+Male: 40%
+Female: 60%
+Asian/Native Hawaiian/Pacific Islander: 13.0%
+Black or African American: 3.0%
+Hispanic/Latino: 9.0%
+White: 48.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 11.0%
+Non-Resident Alien: 14.0%
+Full-Time: 91.0%
+Part-Time: 9.0%
+############### Next ###############
+Rank: 90
+Name: Georgia Institute of Technology
+State: Georgia
+Tel: (404) 894-2000
+Website: http://www.gatech.edu/
+Student Population: 21,557
+Undergraduate Population: 14,527
+Student to Faculty Ratio: 18
+Total Annual Cost: $42,688
+In-State Tuition: $10,650
+Out-of-State Tuition: $29,954
+Percent on Financial Aid: 75.0%
+Percent Admitted: 55.0%
+SAT Composite Range: 1260-1460
+ACT Composite Range: 28-32
+#44 in Research Universities
+#14 in the South
+Male: 67%
+Female: 33%
+Asian/Native Hawaiian/Pacific Islander: 18.0%
+Black or African American: 6.0%
+Hispanic/Latino: 6.0%
+White: 57.0%
+Two or More Races: 3.0%
+Race/Ethnicity Unknown: 1.0%
+Non-Resident Alien: 9.0%
+Full-Time: 91.0%
+Part-Time: 9.0%
+############### Next ###############
+Rank: 91
+Name: DePauw University
+State: Indiana
+Tel: 765-658-4800
+Website: http://www.depauw.edu/
+Student Population: 2,336
+Undergraduate Population: 2,336
+Student to Faculty Ratio: 10
+Total Annual Cost: $53,290
+In-State Tuition: $40,640
+Out-of-State Tuition: $40,640
+Percent on Financial Aid: 97.0%
+Percent Admitted: 61.0%
+SAT Composite Range: 1070-1330
+ACT Composite Range: 25-29
+#75 in Private Colleges
+#14 in the Midwest
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 6.0%
+Hispanic/Latino: 4.0%
+White: 69.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 11.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 92
+Name: Earlham College
+State: Indiana
+Tel: 1-800-327-5426
+Website: http://earlham.edu
+Student Population: 1,196
+Undergraduate Population: 1,087
+Student to Faculty Ratio: 10
+Total Annual Cost: $52,710
+In-State Tuition: $41,450
+Out-of-State Tuition: $41,450
+Percent on Financial Aid: 94.0%
+Percent Admitted: 64.0%
+SAT Composite Range: 1150-1340
+ACT Composite Range: 26-31
+#76 in Private Colleges
+#15 in the Midwest
+Male: 44%
+Female: 56%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 2.0%
+Black or African American: 9.0%
+Hispanic/Latino: 5.0%
+White: 43.0%
+Two or More Races: 1.0%
+Race/Ethnicity Unknown: 20.0%
+Non-Resident Alien: 18.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 93
+Name: Rhodes College
+State: Tennessee
+Tel: 901-843-3700
+Website: http://www.rhodes.edu/
+Student Population: 1,927
+Undergraduate Population: 1,915
+Student to Faculty Ratio: 10
+Total Annual Cost: $53,422
+In-State Tuition: $39,794
+Out-of-State Tuition: $39,794
+Percent on Financial Aid: 96.0%
+Percent Admitted: 58.0%
+SAT Composite Range: 1170-1370
+ACT Composite Range: 27-31
+#77 in Private Colleges
+#15 in the South
+Male: 41%
+Female: 59%
+American Indian or Alaskan native: 1.0%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 6.0%
+Hispanic/Latino: 3.0%
+White: 73.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 6.0%
+Non-Resident Alien: 4.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 94
+Name: University of Georgia
+State: Georgia
+Tel: (706) 542-3000
+Website: http://www.uga.edu/
+Student Population: 34,519
+Undergraduate Population: 26,259
+Student to Faculty Ratio: 18
+Total Annual Cost: $40,274
+In-State Tuition: $10,262
+Out-of-State Tuition: $28,472
+Percent on Financial Aid: 94.0%
+Percent Admitted: 56.0%
+SAT Composite Range: 1140-1330
+ACT Composite Range: 26-30
+#45 in Research Universities
+#16 in the South
+Male: 43%
+Female: 57%
+Asian/Native Hawaiian/Pacific Islander: 8.0%
+Black or African American: 7.0%
+Hispanic/Latino: 5.0%
+White: 74.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 1.0%
+Full-Time: 93.0%
+Part-Time: 7.0%
+############### Next ###############
+Rank: 95
+Name: Denison University
+State: Ohio
+Tel: 1.800.336.4766
+Website: http://denison.edu
+Student Population: 2,339
+Undergraduate Population: 2,339
+Student to Faculty Ratio: 10
+Total Annual Cost: $56,520
+In-State Tuition: $43,910
+Out-of-State Tuition: $43,910
+Percent on Financial Aid: 97.0%
+Percent Admitted: 46.0%
+SAT Composite Range: 1190-1330
+ACT Composite Range: 27-31
+#78 in Private Colleges
+#16 in the Midwest
+Male: 42%
+Female: 58%
+Asian/Native Hawaiian/Pacific Islander: 3.0%
+Black or African American: 6.0%
+Hispanic/Latino: 7.0%
+White: 71.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 2.0%
+Non-Resident Alien: 7.0%
+Full-Time: 99.0%
+Part-Time: 1.0%
+############### Next ###############
+Rank: 96
+Name: University of Richmond
+State: Virginia
+Tel: 800-700-1662
+Website: http://www.richmond.edu/
+Student Population: 4,361
+Undergraduate Population: 3,341
+Student to Faculty Ratio: 8
+Total Annual Cost: $57,630
+In-State Tuition: $45,320
+Out-of-State Tuition: $45,320
+Percent on Financial Aid: 63.0%
+Percent Admitted: 31.0%
+SAT Composite Range: 1210-1410
+ACT Composite Range: 28-31
+#79 in Private Colleges
+#17 in the South
+Male: 45%
+Female: 55%
+Asian/Native Hawaiian/Pacific Islander: 6.0%
+Black or African American: 9.0%
+Hispanic/Latino: 6.0%
+White: 57.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 10.0%
+Non-Resident Alien: 10.0%
+Full-Time: 93.0%
+Part-Time: 7.0%
+############### Next ###############
+Rank: 97
+Name: Mount Holyoke College
+State: Massachusetts
+Tel: 413-538-2000
+Website: https://www.mtholyoke.edu/
+Student Population: 2,347
+Undergraduate Population: 2,325
+Student to Faculty Ratio: 10
+Total Annual Cost: $55,496
+In-State Tuition: $41,456
+Out-of-State Tuition: $41,456
+Percent on Financial Aid: 85.0%
+Percent Admitted: 47.0%
+#80 in Private Colleges
+#48 in the Northeast
+Male: 0%
+Female: 100%
+Asian/Native Hawaiian/Pacific Islander: 7.0%
+Black or African American: 6.0%
+Hispanic/Latino: 9.0%
+White: 48.0%
+Two or More Races: 4.0%
+Race/Ethnicity Unknown: 3.0%
+Non-Resident Alien: 23.0%
+Full-Time: 98.0%
+Part-Time: 2.0%
+############### Next ###############
+Rank: 99
+Name: Sarah Lawrence College
+State: New York
+Tel: 914-337-0700
+Website: http://www.slc.edu/
+Student Population: 1,736
+Undergraduate Population: 1,420
+Student to Faculty Ratio: 10
+Total Annual Cost: $64,122
+In-State Tuition: $48,696
+Out-of-State Tuition: $48,696
+Percent on Financial Aid: 64.0%
+Percent Admitted: 62.0%
+#82 in Private Colleges
+#49 in the Northeast
+Male: 27%
+Female: 73%
+Asian/Native Hawaiian/Pacific Islander: 4.0%
+Black or African American: 4.0%
+Hispanic/Latino: 9.0%
+White: 62.0%
+Two or More Races: 5.0%
+Race/Ethnicity Unknown: 9.0%
+Non-Resident Alien: 7.0%
+Full-Time: 97.0%
+Part-Time: 3.0%
+############### Next ###############
+Rank: 100
+Name: Furman University
+State: South Carolina
+Tel: (864) 294-2000
+Website: http://www2.furman.edu/Pages/default.aspx
+Student Population: 2,915
+Undergraduate Population: 2,753
+Student to Faculty Ratio: 11
+Total Annual Cost: $57,276
+In-State Tuition: $43,164
+Out-of-State Tuition: $43,164
+Percent on Financial Aid: 88.0%
+Percent Admitted: 64.0%
+SAT Composite Range: 1120-1340
+ACT Composite Range: 25-30
+#83 in Private Colleges
+#19 in the South
+Male: 43%
+Female: 57%
+Asian/Native Hawaiian/Pacific Islander: 2.0%
+Black or African American: 5.0%
+Hispanic/Latino: 3.0%
+White: 81.0%
+Two or More Races: 2.0%
+Race/Ethnicity Unknown: 5.0%
+Non-Resident Alien: 3.0%
+Full-Time: 95.0%
+Part-Time: 5.0%
+############### Next ###############

@@ -1,0 +1,119 @@
+Read Me
+
+Flies included in this folder:
+1. Crawl Forbes for Top 650 Universities of US and save to database:
+    --- get_top_univ_modifiedBy_BinHe.py
+        # crawl overall new rank list from http://www.forbes.com/top-colleges/list/.  Seven text files are generated: top_university_(1-7).txt
+    
+    --- save_univ_to_DB.py
+        # after run get_top_univ_modifiedBy_BinHe.py, seven text files are generated.  This scrip will first insert school info into table 'overall_school_list'. Before insert new data into 'overall_school_list', this's best to clear old entry in the table.
+        Then it will update the 'Keywords' field with new additional schools
+        Important Note:  Since some school might have the same official name and Keywords table have a unique key for Keyword, it will be necessary to check the overall_school_list for duplicated school names.
+        Here are some we found before:
+        Westminster College -- Pennsylvania
+        Westminster College -- Missouri
+        Wheaton College -- Illinois
+        Wheaton College -- Massachusetts
+        Augustana College -- Illinois
+        Augustana College -- South Dakota
+        This sql will help you find the duplicates:
+            SELECT tb1.Rank, tb1.Name, tb1.State, tb2.Rank, tb2.Name, tb2.State
+            FROM university_temp tb1
+            JOIN university_temp tb2 
+            ON tb1.Name = tb2.Name and tb1.University_ID != tb2.University_ID
+        
+        
+        
+    --- crawl_detailed_school_info.py
+        # Read infornamtion from database table 'overall_school_list'. Then crawl detailed school info from Forbes. The detailed info will be write into text file first eg. university_detail_1_to_100.txt
+        There might be some school page fail to be crawled.  Read the log file and make sure you are not skipping any desired page.
+        Here are list of school failed this program before:
+        K_ID,   Name
+        1109, Sewanee-university of the South;
+        1241, Wheaton College (IL)   
+        1245, Drake University
+        1246, Wheaton College (MA)
+        1247, Saint Mary's College of California
+        1248, Concordia College-Moorhead
+        1249, University of New Mexico
+        1250, Monmouth College
+        1251, Metropolitan State University of Denver
+      
+    --- university_data_to_db_modifiedby_BinHe.py    
+        #take one parameter : file_name (eg. university_detail_1_to_100.txt)  Read the given file and save all information into database table 'university_temp'.
+        after run this script, please exam the university_temp table and make sure there are no school missing. Clear the 'university_temp' table before run this script.
+        
+        Update 'university_ranking' tables with new entries:
+            INSERT INTO university_ranking (K_ID, Year, Rank, Private_Colleges, the_West, Research_Universities, the_Northeast, the_Midwest, the_South)
+            SELECT K_ID, Year, Rank, Private_Colleges, the_West, Research_Universities, the_Northeast, the_Midwest, the_South 
+            FROM university_temp
+            ORDER BY Rank;
+
+        Update 'university_generalinfo' tables with new entries:
+            INSERT INTO university_generalinfo (K_ID, Year, Percent_Admitted, SAT_Composite_Range, 
+                                                Forbes_Financial_Grade, Student_to_Faculty_Ratio, Total_Annual_Cost, 
+                                                In_State_Tuition, Out_of_State_Tuition, Percent_on_Financial_Aid, ACT_Composite_Range )
+            SELECT K_ID, Year, Percent_Admitted, SAT_Composite_Range, 
+                                                Forbes_Financial_Grade, Student_to_Faculty_Ratio, Total_Annual_Cost, 
+                                                In_State_Tuition, Out_of_State_Tuition, Percent_on_Financial_Aid, ACT_Composite_Range
+            FROM university_temp
+            ORDER BY Rank;
+
+        
+        Update 'university_population' tables with new entries:
+            INSERT INTO university_population (K_ID, Year, Student_Population, Male, Female, American_Indian_or_Alaskan_native, 
+                                            Asian_Native_Hawaiian_Pacific_Islander, Black_or_African_American, Hispanic_Latino, White, Two_or_More_Races, 
+                                            Race_Ethnicity_Unknown, Non_Resident_Alien, Full_Time, Part_Time, Undergraduate_Population)
+            SELECT K_ID, Year, Total_Population, Male, Female, American_Indian_or_Alaskan_native, 
+                                            Asian_Native_Hawaiian_Pacific_Islander, Black_or_African_American, Hispanic_Latino, White, Two_or_More_Races, 
+                                            Race_Ethnicity_Unknown, Non_Resident_Alien, Full_Time, Part_Time, Under_Population
+            FROM university_temp
+            ORDER BY Rank;
+
+        Update 'university_basics' table if there are any changed information:
+            INSERT INTO university_basics (K_ID, Website, State, Tel, FormattedName)
+            SELECT UT.K_ID, UT.Website, UT.State, UT.Tel, UT.Name
+            FROM university_temp as UT
+            LEFT JOIN university_basics as UB
+            ON UT.K_ID = UB.K_ID
+            WHERE UB.K_ID IS NULL
+            ORDER BY UT.Rank;
+        
+        
+ 2.  Crawl facebook information of each school:
+    -- crawl_facebook_account_linxinSui_BinHe.py
+        find facebook website for each school on google by searching 'school name facebook'. Save the result to database table 'university_basics'.  eg: https://www.facebook.com/stanford
+        find facebook id
+        
+    -- get_facebook_data.py
+        get facebook 'likes' number and 'talking about count' number using facebook api. eg: https://graph.facebook.com/6192688417
+        run once a week and save the new data to database table 'Facebook_Data'
+        
+ 
+3. Crawl twitter information of each school:
+    -- university_name_to_twitterID_qinglinxia.py
+        find twitter username through google search 'school_name twitter'.
+        find twitter ID through 'http://gettwitterid.com'
+        get twitter Data through twitter API ----working on by qinglin
+
+
+4.  Crawl google index and reference info for each school:
+     -- get_google_exposure_qinlin_Xia
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+        
+        
+        

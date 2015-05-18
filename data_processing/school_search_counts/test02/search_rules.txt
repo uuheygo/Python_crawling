@@ -1,0 +1,4 @@
+Baidu
+1. delete colon, hypen (en, ch)
+2. delete acronym such as SUNY, CUNY (en)
+3. add state outside quotes to eliminate irrelevant results (en)

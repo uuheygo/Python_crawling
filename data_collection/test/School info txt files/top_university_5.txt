@@ -1,0 +1,702 @@
+
+401
+http://www.forbes.com/colleges/berry-college/
+Berry College
+Georgia
+$43,834
+2,166
+
+402
+http://www.forbes.com/colleges/texas-tech-university/
+Texas Tech University
+Texas
+$30,097
+32,467
+
+403
+http://www.forbes.com/colleges/wisconsin-lutheran-college/
+Wisconsin Lutheran College
+Wisconsin
+$36,330
+1,090
+
+404
+http://www.forbes.com/colleges/simpson-college/
+Simpson College
+Iowa
+$43,350
+1,897
+
+405
+http://www.forbes.com/colleges/university-of-central-florida/
+University of Central Florida
+Florida
+$36,938
+59,601
+
+406
+http://www.forbes.com/colleges/huntington-university/
+Huntington University
+Indiana
+$35,520
+1,204
+
+407
+http://www.forbes.com/colleges/weber-state-university/
+Weber State University
+Utah
+$27,563
+26,532
+
+408
+http://www.forbes.com/colleges/dordt-college/
+Dordt College
+Iowa
+$38,800
+1,394
+
+409
+http://www.forbes.com/colleges/california-state-university-san-bernardino/
+California State University, San Bernardino
+California
+$31,537
+18,234
+
+410
+http://www.forbes.com/colleges/le-moyne-college/
+Le Moyne College
+New York
+$44,900
+3,339
+
+411
+http://www.forbes.com/colleges/north-dakota-state-university-main-campus/
+North Dakota State University
+North Dakota
+$30,042
+14,443
+
+412
+http://www.forbes.com/colleges/baldwin-wallace-university/
+Baldwin Wallace University
+Ohio
+$39,230
+4,169
+
+413
+http://www.forbes.com/colleges/warren-wilson-college/
+Warren Wilson College
+North Carolina
+$43,000
+924
+
+414
+http://www.forbes.com/colleges/marietta-college/
+Marietta College
+Ohio
+$44,362
+1,622
+
+415
+http://www.forbes.com/colleges/augustana-college-sd/
+Augustana College
+South Dakota
+$38,200
+1,839
+
+416
+http://www.forbes.com/colleges/new-jersey-institute-of-technology/
+New Jersey Institute of Technology
+New Jersey
+$44,540
+9,944
+
+417
+http://www.forbes.com/colleges/university-of-la-verne/
+University of La Verne
+California
+$51,997
+8,628
+
+418
+http://www.forbes.com/colleges/adelphi-university/
+Adelphi University
+New York
+$47,110
+7,859
+
+419
+http://www.forbes.com/colleges/california-state-university-chico/
+California State University, Chico
+California
+$33,522
+16,470
+
+420
+http://www.forbes.com/colleges/saint-marys-university-of-minnesota/
+Saint Mary's University of Minnesota
+Minnesota
+$39,750
+5,574
+
+421
+http://www.forbes.com/colleges/college-of-charleston/
+College of Charleston
+South Carolina
+$43,120
+11,723
+
+422
+http://www.forbes.com/colleges/florida-institute-of-technology/
+Florida Institute of Technology
+Florida
+$52,690
+5,384
+
+423
+http://www.forbes.com/colleges/university-of-new-mexico-main-campus/
+University of New Mexico
+New Mexico
+$33,939
+29,033
+
+424
+http://www.forbes.com/colleges/university-of-rhode-island/
+University of Rhode Island
+Rhode Island
+$42,448
+16,451
+
+425
+http://www.forbes.com/colleges/roanoke-college/
+Roanoke College
+Virginia
+$51,371
+2,060
+
+426
+http://www.forbes.com/colleges/university-of-north-carolina-wilmington/
+University of North Carolina, Wilmington
+North Carolina
+$32,738
+13,733
+
+427
+http://www.forbes.com/colleges/cuny-college-of-staten-island/
+CUNY, College of Staten Island
+New York
+$31,342
+14,321
+
+428
+http://www.forbes.com/colleges/california-state-university-fresno/
+California State University, Fresno
+California
+$31,842
+22,565
+
+429
+http://www.forbes.com/colleges/randolph-macon-college/
+Randolph-Macon College
+Virginia
+$47,740
+1,312
+
+430
+http://www.forbes.com/colleges/california-state-university-sacramento/
+California State University, Sacramento
+California
+$34,369
+28,539
+
+431
+http://www.forbes.com/colleges/college-of-st-scholastica/
+College of St. Scholastica
+Minnesota
+$43,008
+4,100
+
+432
+http://www.forbes.com/colleges/clarke-university/
+Clarke University
+Iowa
+$40,800
+1,191
+
+433
+http://www.forbes.com/colleges/university-of-new-england/
+University of New England
+Maine
+$50,295
+5,666
+
+434
+http://www.forbes.com/colleges/centenary-college-of-louisiana/
+Centenary College of Louisiana
+Louisiana
+$44,600
+776
+
+435
+http://www.forbes.com/colleges/university-of-south-florida/
+University of South Florida
+Florida
+$31,674
+41,116
+
+436
+http://www.forbes.com/colleges/wheeling-jesuit-university/
+Wheeling Jesuit University
+West Virginia
+$36,070
+1,549
+
+437
+http://www.forbes.com/colleges/spring-hill-college/
+Spring Hill College
+Alabama
+$46,170
+1,308
+
+438
+http://www.forbes.com/colleges/the-university-of-montana/
+University of Montana
+Montana
+$34,780
+14,946
+
+439
+http://www.forbes.com/colleges/converse-college/
+Converse College
+South Carolina
+$42,094
+1,216
+
+440
+http://www.forbes.com/colleges/ohio-university-main-campus/
+Ohio University
+Ohio
+$33,360
+27,402
+
+441
+http://www.forbes.com/colleges/canisius-college/
+Canisius College
+New York
+$48,102
+4,908
+
+442
+http://www.forbes.com/colleges/new-mexico-state-university-main-campus/
+New Mexico State University, Las Cruces
+New Mexico
+$31,679
+17,651
+
+443
+http://www.forbes.com/colleges/west-virginia-university/
+West Virginia University
+West Virginia
+$31,551
+29,707
+
+444
+http://www.forbes.com/colleges/capital-university/
+Capital University
+Ohio
+$44,350
+3,584
+
+445
+http://www.forbes.com/colleges/university-of-maine/
+University of Maine, Orono
+Maine
+$41,082
+10,901
+
+446
+http://www.forbes.com/colleges/university-of-wisconsin-eau-claire/
+University of Wisconsin, Eau Claire
+Wisconsin
+$26,078
+11,067
+
+447
+http://www.forbes.com/colleges/california-maritime-academy/
+California Maritime Academy
+California
+$32,262
+973
+
+448
+http://www.forbes.com/colleges/north-greenville-university/
+North Greenville University
+South Carolina
+$30,000
+2,420
+
+449
+http://www.forbes.com/colleges/sonoma-state-university/
+Sonoma State University
+California
+$34,455
+9,021
+
+450
+http://www.forbes.com/colleges/university-of-hawaii-at-manoa/
+University of Hawaii, Manoa
+Hawaii
+$40,564
+20,426
+
+451
+http://www.forbes.com/colleges/hofstra-university/
+Hofstra University
+New York
+$54,289
+11,023
+
+452
+http://www.forbes.com/colleges/west-chester-university-of-pennsylvania/
+West Chester University of Pennsylvania
+Pennsylvania
+$35,814
+15,411
+
+453
+http://www.forbes.com/colleges/georgia-state-university/
+Georgia State University
+Georgia
+$39,016
+32,087
+
+454
+http://www.forbes.com/colleges/azusa-pacific-university/
+Azusa Pacific University
+California
+$45,996
+10,184
+
+455
+http://www.forbes.com/colleges/roger-williams-university/
+Roger Williams University
+Rhode Island
+$49,394
+4,768
+
+456
+http://www.forbes.com/colleges/university-of-idaho/
+University of Idaho
+Idaho
+$32,674
+12,420
+
+457
+http://www.forbes.com/colleges/salem-college/
+Salem College
+North Carolina
+$41,600
+1,165
+
+458
+http://www.forbes.com/colleges/carroll-university/
+Carroll University
+Wisconsin
+$40,168
+3,571
+
+459
+http://www.forbes.com/colleges/elmhurst-college/
+Elmhurst College
+Illinois
+$46,000
+3,298
+
+460
+http://www.forbes.com/colleges/virginia-commonwealth-university/
+Virginia Commonwealth University
+Virginia
+$45,768
+31,445
+
+461
+http://www.forbes.com/colleges/hartwick-college/
+Hartwick College
+New York
+$50,815
+1,558
+
+462
+http://www.forbes.com/colleges/jackson-state-university/
+Jackson State University
+Mississippi
+$29,844
+8,819
+
+463
+http://www.forbes.com/colleges/maryville-university-of-saint-louis/
+Maryville University of Saint Louis
+Missouri
+$41,918
+4,203
+
+464
+http://www.forbes.com/colleges/san-francisco-state-university/
+San Francisco State University
+California
+$34,988
+30,500
+
+465
+http://www.forbes.com/colleges/university-of-massachusetts-lowell/
+University of Massachusetts, Lowell
+Massachusetts
+$39,010
+16,294
+
+466
+http://www.forbes.com/colleges/university-of-alabama-in-huntsville/
+University of Alabama, Huntsville
+Alabama
+$35,780
+7,636
+
+467
+http://www.forbes.com/colleges/immaculata-university/
+Immaculata University
+Pennsylvania
+$49,130
+4,117
+
+468
+http://www.forbes.com/colleges/moravian-college/
+Moravian College
+Pennsylvania
+$49,090
+1,910
+
+469
+http://www.forbes.com/colleges/university-of-north-dakota/
+University of North Dakota
+North Dakota
+$31,448
+15,250
+
+470
+http://www.forbes.com/colleges/belmont-university/
+Belmont University
+Tennessee
+$43,030
+6,665
+
+471
+http://www.forbes.com/colleges/kings-college/
+King's College
+Pennsylvania
+$45,468
+2,494
+
+472
+http://www.forbes.com/colleges/milwaukee-school-of-engineering/
+Milwaukee School of Engineering
+Wisconsin
+$46,220
+2,564
+
+473
+http://www.forbes.com/colleges/saint-edwards-university/
+Saint Edward's University
+Texas
+$47,500
+5,095
+
+474
+http://www.forbes.com/colleges/vanguard-university-of-southern-california/
+Vanguard University of Southern California
+California
+$43,076
+2,309
+
+475
+http://www.forbes.com/colleges/lyon-college/
+Lyon College
+Arkansas
+$34,154
+600
+
+476
+http://www.forbes.com/colleges/california-state-university-stanislaus/
+California State University, Stanislaus
+California
+$33,593
+8,882
+
+477
+http://www.forbes.com/colleges/mercer-university/
+Mercer University
+Georgia
+$48,212
+8,329
+
+478
+http://www.forbes.com/colleges/illinois-state-university/
+Illinois State University
+Illinois
+$33,699
+20,706
+
+479
+http://www.forbes.com/colleges/lycoming-college/
+Lycoming College
+Pennsylvania
+$46,707
+1,354
+
+480
+http://www.forbes.com/colleges/university-of-nevada-reno/
+University of Nevada, Reno
+Nevada
+$36,510
+18,227
+
+481
+http://www.forbes.com/colleges/saint-john-fisher-college/
+Saint John Fisher College
+New York
+$41,370
+4,008
+
+482
+http://www.forbes.com/colleges/hiram-college/
+Hiram College
+Ohio
+$43,145
+1,324
+
+483
+http://www.forbes.com/colleges/cuny-john-jay-college-criminal-justice/
+CUNY, John Jay College Criminal Justice
+New York
+$37,395
+14,996
+
+484
+http://www.forbes.com/colleges/university-of-northern-iowa/
+University of Northern Iowa
+Iowa
+$29,376
+12,273
+
+485
+http://www.forbes.com/colleges/oklahoma-baptist-university/
+Oklahoma Baptist University
+Oklahoma
+$33,400
+1,979
+
+486
+http://www.forbes.com/colleges/university-of-south-dakota/
+University of South Dakota
+South Dakota
+$22,265
+10,284
+
+487
+http://www.forbes.com/colleges/university-of-alaska-fairbanks/
+University of Alaska, Fairbanks
+Alaska
+$27,060
+9,223
+
+488
+http://www.forbes.com/colleges/st-francis-college/
+Saint Francis College
+New York
+$43,200
+2,900
+
+489
+http://www.forbes.com/colleges/fairleigh-dickinson-university-metropolitan-campus/
+Fairleigh Dickinson University, Metropolitan Campus
+New Jersey
+$52,036
+9,130
+
+490
+http://www.forbes.com/colleges/north-central-college/
+North Central College
+Illinois
+$44,769
+3,042
+
+491
+http://www.forbes.com/colleges/south-dakota-state-university/
+South Dakota State University
+South Dakota
+$21,528
+12,583
+
+492
+http://www.forbes.com/colleges/lynn-university/
+Lynn University
+Florida
+$49,535
+2,097
+
+493
+http://www.forbes.com/colleges/university-of-colorado-denver/
+University of Colorado, Denver
+Colorado
+$38,679
+22,396
+
+494
+http://www.forbes.com/colleges/the-university-of-texas-at-dallas/
+University of Texas, Dallas
+Texas
+$39,958
+19,727
+
+495
+http://www.forbes.com/colleges/oglethorpe-university/
+Oglethorpe University
+Georgia
+$46,430
+1,079
+
+496
+http://www.forbes.com/colleges/western-state-college-of-colorado/
+Western State Colorado University
+Colorado
+$29,986
+2,301
+
+497
+http://www.forbes.com/colleges/pace-university-new-york/
+Pace University
+New York
+$56,999
+12,772
+
+498
+http://www.forbes.com/colleges/university-of-north-carolina-at-asheville/
+University of North Carolina, Asheville
+North Carolina
+$32,587
+3,751
+
+499
+http://www.forbes.com/colleges/oregon-institute-of-technology/
+Oregon Institute of Technology
+Oregon
+$34,803
+3,991
+
+500
+http://www.forbes.com/colleges/hastings-college/
+Hastings College
+Nebraska
+$37,152
+1,112
+
+
