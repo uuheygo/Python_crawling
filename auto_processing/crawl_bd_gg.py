@@ -31,13 +31,13 @@ def get_bd_index_all_mechanize(file_name):
     #print all_schools
     
     count =0
-    for school in all_schools[0:10]:
+    for school in all_schools[0:]:
         sleep(random.random() * 2)
         
         while True:
             
             nums = []
-            print school, nums
+            #print school, nums
             try:
                 ############################## gg
                 # school names inside quotes
@@ -48,7 +48,7 @@ def get_bd_index_all_mechanize(file_name):
                 
                 #target_ch = "\"" + school[3] + "\""
                 site = 'site:' + school[1]
-                print target_en, site
+                #print target_en, site
                 
                 # gg search
                 # en                
@@ -157,7 +157,7 @@ def get_bd_index_all_mechanize(file_name):
                 target_ch = school[3]
                 target_en = string.replace(target_en, ' ', '%20')
                 target_ch = string.replace(target_ch, ' ', '%20')
-                print target_ch, target_en, site
+                #print target_ch, target_en, site
                 
                 while True:
                     nums_bd = []
@@ -242,7 +242,7 @@ def get_bd_index_all_mechanize(file_name):
                         print sys.exc_info()[:2]
                         pass
                 
-                print 'count =', count, '&&&\t', one_line + '\n'
+                #print 'count =', count, '&&&\t', one_line + '\n'
                 count += 1
                 
                 #if count % 10 == 0: # sleep 10 min every 10 runs 
@@ -251,7 +251,7 @@ def get_bd_index_all_mechanize(file_name):
                 
             except Exception:
                 print sys.exc_info()[:2]
-                print 'count =', count, ' &&&' + '\t'.join(school) + '\n'
+                #print 'count =', count, ' &&&' + '\t'.join(school) + '\n'
                 count += 1
                 #if count % 10 == 0: # sleep 10 min every 10 runs 
                 sleep(600) # sleep 10 min if failed
