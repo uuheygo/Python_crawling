@@ -3,7 +3,7 @@ import MySQLdb
 conn = MySQLdb.connect(host = 'localhost', 
                        user = 'mediaWatch', 
                        passwd = 'Morefruit2013', 
-                       db = 'mediaWatch_lu',
+                       db = 'mediaWatch_lu_test',
                        charset='utf8', # some school names has unicode
                        use_unicode=True)
 x = conn.cursor()
@@ -66,8 +66,8 @@ def import_baidu_site(list_index, date):
         x.execute("insert into baidu_site (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
 
-def import_to_db(filename, date):
-    with open(filename, 'r') as f_input:
+def import_to_db(file_composite, file_indexes, date):
+    with open(file_indexes, 'r') as f_input:
         # input file has 10 cols including id and 9 indexes
         list_index = [] # 9 lists of [id, index] entries
         for i in range(9):
@@ -88,7 +88,13 @@ def import_to_db(filename, date):
         import_baidu_news_en(list_index[7], date)
         import_baidu_site(list_index[8], date)
         conn.commit()
-        
+    
+    with open(file_composite, 'r') as f_input:
+        for line in f_input.readlines():
+            entry = line.strip().split('\t')
+            x.execute("insert into composite_index (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
+                  % (entry[0], entry[1], date))
+        conn.commit()
 #         do_import = raw_input('Do you want to commit import to database? y/n: ')
 #         if do_import.lower() == 'y':
 #             conn.commit()
