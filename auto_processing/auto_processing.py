@@ -16,8 +16,12 @@ print 'hello'
 f_schools = 'school_info.csv'
 f_counts = crawl_search_counts(f_schools)
 f_indexes, f_composite_indexes = calculate_indexes(f_counts)
-#f_indexes = 'indexes_2015_05_18_23_03_01'
-#f_composite_indexes = 'composite_index_2015_05_18_23_03_01'
+print f_indexes, f_composite_indexes
+#f_indexes = 'indexes_2015_05_21_09_00_03'
+#f_composite_indexes = 'composite_index_2015_05_21_09_00_03'
 date = '-'.join(f_indexes.split('_')[1:4])
-import_to_db(f_composite_indexes, f_indexes, date) # need set db connect in import_db module
-
+try:
+    import_to_db(f_composite_indexes, f_indexes, date) # need set db connect in import_db module
+    print date, 'task successful'
+except Exception:
+    print Exception
