@@ -1,6 +1,6 @@
 import MySQLdb
 
-conn = MySQLdb.connect(host = 'localhost', 
+conn = MySQLdb.connect(host = '54.81.244.43', 
                        user = 'mediaWatch', 
                        passwd = 'Morefruit2013', 
                        db = 'mediaWatch_lu',

@@ -5,6 +5,8 @@ Created on May 17, 2015
 
 @author: lu
 '''
+
+import sys
 import os
 os.chdir("/home/dev/crawling_lu/auto_processing")
 
@@ -17,11 +19,11 @@ f_schools = 'school_info.csv'
 f_counts = crawl_search_counts(f_schools)
 f_indexes, f_composite_indexes = calculate_indexes(f_counts)
 print f_indexes, f_composite_indexes
-#f_indexes = 'indexes_2015_05_21_09_00_03'
-#f_composite_indexes = 'composite_index_2015_05_21_09_00_03'
+#f_indexes = 'indexes_2015_05_28_09_00_03'
+#f_composite_indexes = 'composite_index_2015_05_28_09_00_03'
 date = '-'.join(f_indexes.split('_')[1:4])
 try:
     import_to_db(f_composite_indexes, f_indexes, date) # need set db connect in import_db module
     print date, 'task successful'
 except Exception:
-    print Exception
+    print sys.exc_info()
