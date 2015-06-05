@@ -31,6 +31,7 @@ def get_bd_index_all_mechanize(file_name):
     #print all_schools
     
     count =0
+    # default includes all 650 schools, need to change range for testing purposes
     for school in all_schools[0:]:
         sleep(random.random() * 2)
         
