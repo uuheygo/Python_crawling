@@ -1,72 +1,72 @@
 import MySQLdb
 
-conn = MySQLdb.connect(host = '54.81.244.43', 
-                       user = 'mediaWatch', 
-                       passwd = 'Morefruit2013', 
-                       db = 'mediaWatch_lu',
-                       charset='utf8', # some school names has unicode
-                       use_unicode=True)
-x = conn.cursor()
-
 # 'baidu_index_ch','baidu_index_en', 'baidu_news_ch', 'baidu_news_en', 
 #              'baidu_site', 'google_index_en', 'google_index_hk', 'google_news', 
 #              'google_site', 'yahoojap_index_en', 'yahoojap_index_jp'
 
-def import_google_index_en(list_index, date):
+def import_google_index_en(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("INSERT INTO google_index_en (school, my_index, my_date) VALUES (%s, %s, '%s')" 
                   % (entry[0], entry[1], date))
         
-def import_google_index_hk(list_index, date):
+def import_google_index_hk(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into google_index_hk (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
         
-def import_google_news(list_index, date):
+def import_google_news(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into google_news (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
         
-def import_google_site(list_index, date):
+def import_google_site(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into google_site (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
         
-def import_baidu_index_ch(list_index, date):
+def import_baidu_index_ch(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into baidu_index_ch (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
 
-def import_baidu_index_en(list_index, date):
+def import_baidu_index_en(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into baidu_index_en (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
 
-def import_baidu_news_ch(list_index, date):
+def import_baidu_news_ch(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into baidu_news_ch (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
 
-def import_baidu_news_en(list_index, date):
+def import_baidu_news_en(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into baidu_news_en (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
 
-def import_baidu_site(list_index, date):
+def import_baidu_site(list_index, date, x):
     # list_index is a list of [id, index] entries
     for entry in list_index:
         x.execute("insert into baidu_site (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
 
-def import_to_db(file_composite, file_indexes, date):
+def import_to_db(host_ip, file_composite, file_indexes, date):
+    conn = MySQLdb.connect(host = host_ip,
+                       user = 'mediaWatch',
+                       passwd = 'Morefruit2013',
+                       db = 'mediaWatch_lu',
+                       charset='utf8', # some school names has unicode
+                       use_unicode=True)
+    x = conn.cursor()
+
     print 'start importing to db...'
     with open(file_indexes, 'r') as f_input:
         # input file has 10 cols including id and 9 indexes
@@ -79,15 +79,15 @@ def import_to_db(file_composite, file_indexes, date):
                 list_index[i].append([index_for_school[0], index_for_school[i + 1]])
         # date = raw_input('Enter the date (eg, 2015-04-08): ')
         
-        import_google_index_en(list_index[0], date)
-        import_google_index_hk(list_index[1], date)
-        import_google_news(list_index[2], date)
-        import_google_site(list_index[3], date)
-        import_baidu_index_ch(list_index[4], date)
-        import_baidu_index_en(list_index[5], date)
-        import_baidu_news_ch(list_index[6], date)
-        import_baidu_news_en(list_index[7], date)
-        import_baidu_site(list_index[8], date)
+        import_google_index_en(list_index[0], date, x)
+        import_google_index_hk(list_index[1], date, x)
+        import_google_news(list_index[2], date, x)
+        import_google_site(list_index[3], date, x)
+        import_baidu_index_ch(list_index[4], date, x)
+        import_baidu_index_en(list_index[5], date, x)
+        import_baidu_news_ch(list_index[6], date, x)
+        import_baidu_news_en(list_index[7], date, x)
+        import_baidu_site(list_index[8], date, x)
         conn.commit()
        
     with open(file_composite, 'r') as f_input:
