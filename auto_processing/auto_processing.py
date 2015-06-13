@@ -26,6 +26,7 @@ print 'index files: ' + f_indexes, f_composite_indexes
 print ''
 
 try:
+    # adjust database machine IPs to where you want to import the data
     import_to_db('184.72.247.127', f_composite_indexes, f_indexes, date) # glogou_production_server
     print date, '184.72.247.127 task successful'
 except Exception:
