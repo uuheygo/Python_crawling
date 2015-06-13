@@ -67,7 +67,7 @@ def import_to_db(host_ip, file_composite, file_indexes, date):
                        use_unicode=True)
     x = conn.cursor()
 
-    print 'start importing to db...'
+    print host_ip, 'start importing to db...'
     with open(file_indexes, 'r') as f_input:
         # input file has 10 cols including id and 9 indexes
         list_index = [] # 9 lists of [id, index] entries
@@ -96,7 +96,7 @@ def import_to_db(host_ip, file_composite, file_indexes, date):
             x.execute("insert into composite_index (school, my_index, my_date) VALUES ('%s', '%s', '%s')"
                   % (entry[0], entry[1], date))
         conn.commit() 
-    print 'done importing to db...'
+    print host_ip, 'done importing to db...'
 #         do_import = raw_input('Do you want to commit import to database? y/n: ')
 #         if do_import.lower() == 'y':
 #             conn.commit()

@@ -239,7 +239,7 @@ def get_bd_index_all_mechanize(file_name):
                         break
                         
                     except Exception:
-                        print sys.exc_info()[:2]
+                        #print sys.exc_info()[:2]
                         pass
                 
                 #print 'count =', count, '&&&\t', one_line + '\n'
@@ -250,7 +250,7 @@ def get_bd_index_all_mechanize(file_name):
                 break
                 
             except Exception:
-                print sys.exc_info()[:2]
+                #print sys.exc_info()[:2]
                 #print 'count =', count, ' &&&' + '\t'.join(school) + '\n'
                 count += 1
                 #if count % 10 == 0: # sleep 10 min every 10 runs 
